@@ -1,7 +1,7 @@
 {
   "extends": "@tsconfig/node22/tsconfig.json",
   "include": ["**/*.ts"],
-  "exclude": ["dist"],
+  "exclude": ["dist", "**/*.test.ts", "node_modules"],
   "compilerOptions": {
     "rootDir": "./",
 

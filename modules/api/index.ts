@@ -4,6 +4,7 @@ import { buildCardsRoute } from "./routes/cards.route.js";
 import { log } from "../logger.js";
 import { pinoHttp } from "pino-http";
 import { CardsService } from "../card/services/cards.service.js";
+import apicache from "apicache";
 
 export class Api {
   private app: Express;
@@ -19,9 +20,18 @@ export class Api {
   }
 
   config() {
+    const cache = apicache.options({
+      statusCodes: {
+        include: [200],
+      },
+      respectCacheControl: true,
+    }).middleware;
+
     this.app.use(express.json());
     this.app.disable("x-powered-by");
     this.app.use(pinoHttp({ logger: log }));
+
+    this.app.use(cache("15 minutes"));
 
     this.app.use(this.cardsRoute);
 
