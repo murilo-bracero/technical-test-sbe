@@ -1,0 +1,7530 @@
+[{
+  "name": "Ariel - On Human Legs",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "ariel-on-human-legs"
+},
+{
+  "name": "Ariel - Spectacular Singer",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "ariel-spectacular-singer"
+},
+{
+  "name": "Maximus - Relentless Pursuer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "maximus-relentless-pursuer"
+},
+{
+  "name": "Dr. Facilier's Cards",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "dr-faciliers-cards"
+},
+{
+  "name": "Basil - Practiced Detective",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "basil-practiced-detective"
+},
+{
+  "name": "King Candy - Sweet Abomination",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "king-candy-sweet-abomination"
+},
+{
+  "name": "Donald Duck - Focused Flatfoot",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "donald-duck-focused-flatfoot"
+},
+{
+  "name": "Tanana - Wise Woman",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "tanana-wise-woman"
+},
+{
+  "name": "Tipo - Growing Son",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "tipo-growing-son"
+},
+{
+  "name": "Belle - Of the Ball",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "belle-of-the-ball"
+},
+{
+  "name": "Merlin - Intellectual Visionary",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "merlin-intellectual-visionary"
+},
+{
+  "name": "Vision of the Future",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "vision-of-the-future"
+},
+{
+  "name": "Royal Tantrum",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "royal-tantrum"
+},
+{
+  "name": "Ever as Before",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "ever-as-before"
+},
+{
+  "name": "Stolen Scimitar",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "stolen-scimitar"
+},
+{
+  "name": "Hide Away",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "hide-away"
+},
+{
+  "name": "All Funned Out",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "all-funned-out"
+},
+{
+  "name": "Medal of Heroes",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "medal-of-heroes"
+},
+{
+  "name": "Basil's Magnifying Glass",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "basils-magnifying-glass"
+},
+{
+  "name": "Merlin's Carpetbag",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "merlins-carpetbag"
+},
+{
+  "name": "Sapphire Chromicon",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "sapphire-chromicon"
+},
+{
+  "name": "The Great Illuminary - Radiant Ballroom",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "the-great-illuminary-radiant-ballroom"
+},
+{
+  "name": "Merlin's Cottage - The Wizard's Home",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "merlins-cottage-the-wizards-home"
+},
+{
+  "name": "Stitch - Team Underdog",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "stitch-team-underdog"
+},
+{
+  "name": "Jafar - Tyrannical Hypnotist",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "jafar-tyrannical-hypnotist"
+},
+{
+  "name": "Abu - Mischievous Monkey",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "abu-mischievous-monkey"
+},
+{
+  "name": "Simba - Lost Prince",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "simba-lost-prince"
+},
+{
+  "name": "Rudy - Groove Disrupter",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "rudy-groove-disrupter"
+},
+{
+  "name": "Royal Guard - Bovine Protector",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "royal-guard-bovine-protector"
+},
+{
+  "name": "Mickey Mouse - Food Fight Defender",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "mickey-mouse-food-fight-defender"
+},
+{
+  "name": "Sleepy - Sluggish Knight",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "sleepy-sluggish-knight"
+},
+{
+  "name": "Kronk - Unlicensed Investigator",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "kronk-unlicensed-investigator"
+},
+{
+  "name": "HeiHei - Protective Rooster",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "heihei-protective-rooster"
+},
+{
+  "name": "Sneezy - Noisy Knight",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "sneezy-noisy-knight"
+},
+{
+  "name": "Dopey - Knight Apprentice",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "dopey-knight-apprentice"
+},
+{
+  "name": "Namaari - Resolute Daughter",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "namaari-resolute-daughter"
+},
+{
+  "name": "Aladdin - Heroic Outlaw",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "aladdin-heroic-outlaw"
+},
+{
+  "name": "Snow White - Fair-Hearted",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "snow-white-fair-hearted"
+},
+{
+  "name": "Yzma - Unjustly Treated",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "yzma-unjustly-treated"
+},
+{
+  "name": "Kronk - Head of Security",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "kronk-head-of-security"
+},
+{
+  "name": "Grumpy - Skeptical Knight",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "grumpy-skeptical-knight"
+},
+{
+  "name": "Pete - Wrestling Champ",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "pete-wrestling-champ"
+},
+{
+  "name": "Sir Ector - Castle Lord",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "sir-ector-castle-lord"
+},
+{
+  "name": "Bashful - Adoring Knight",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "bashful-adoring-knight"
+},
+{
+  "name": "Arthur - Wart",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "arthur-wart"
+},
+{
+  "name": "Happy - Lively Knight",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "happy-lively-knight"
+},
+{
+  "name": "Simba - Son of Mufasa",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "simba-son-of-mufasa"
+},
+{
+  "name": "Aladdin - Street Rat",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "aladdin-street-rat"
+},
+{
+  "name": "Doc - Bold Knight",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "doc-bold-knight"
+},
+{
+  "name": "Arthur - King Victorious",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "arthur-king-victorious"
+},
+{
+  "name": "Pete - Games Referee",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "pete-games-referee"
+},
+{
+  "name": "Tug-of-War",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "tug-of-war"
+},
+{
+  "name": "When Will My Life Begin?",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "when-will-my-life-begin"
+},
+{
+  "name": "Duck for Cover!",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "duck-for-cover"
+},
+{
+  "name": "Food Fight!",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "food-fight"
+},
+{
+  "name": "Shield of Arendelle",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "shield-of-arendelle"
+},
+{
+  "name": "Plate Armor",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "plate-armor"
+},
+{
+  "name": "Steel Chromicon",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "steel-chromicon"
+},
+{
+  "name": "Captain - Colonel's Lieutenant",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "captain-colonels-lieutenant"
+},
+{
+  "name": "Bad-Anon - Villain Support Center",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "bad-anon-villain-support-center"
+},
+{
+  "name": "Seven Dwarfs' Mine - Secure Fortress",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "seven-dwarfs-mine-secure-fortress"
+},
+{
+  "name": "Owl - Pirate Lookout",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "owl-pirate-lookout"
+},
+{
+  "name": "Lilo - Escape Artist",
+  "ink_cost": 2,
+  "rarity": "Super Rare",
+  "id": "lilo-escape-artist"
+},
+{
+  "name": "Winnie the Pooh - Hunny Pirate",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "winnie-the-pooh-hunny-pirate"
+},
+{
+  "name": "Gopher - Ship's Carpenter",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "gopher-ships-carpenter"
+},
+{
+  "name": "Simba - Happy-Go-Lucky",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "simba-happy-go-lucky"
+},
+{
+  "name": "Chip - Friend Indeed",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "chip-friend-indeed"
+},
+{
+  "name": "Dale - Friend in Need",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "dale-friend-in-need"
+},
+{
+  "name": "David - Impressive Surfer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "david-impressive-surfer"
+},
+{
+  "name": "Captain Hook - Ruthless Pirate",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "captain-hook-ruthless-pirate"
+},
+{
+  "name": "Prince Naveen - Vigilant First Mate",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "prince-naveen-vigilant-first-mate"
+},
+{
+  "name": "Prince Naveen - Carefree Explorer",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "prince-naveen-carefree-explorer"
+},
+{
+  "name": "Chief Bogo - Gazelle Fan",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "chief-bogo-gazelle-fan"
+},
+{
+  "name": "Chip - Ranger Leader",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "chip-ranger-leader"
+},
+{
+  "name": "Monterey Jack - Good-Hearted Ranger",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "monterey-jack-good-hearted-ranger"
+},
+{
+  "name": "Chip 'n' Dale - Recovery Rangers",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "chip-n-dale-recovery-rangers"
+},
+{
+  "name": "Judy Hopps - Resourceful Rabbit",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "judy-hopps-resourceful-rabbit"
+},
+{
+  "name": "Tiana - Restaurant Owner",
+  "ink_cost": 3,
+  "rarity": "Legendary",
+  "id": "tiana-restaurant-owner"
+},
+{
+  "name": "Grand Councilwoman - Federation Leader",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "grand-councilwoman-federation-leader"
+},
+{
+  "name": "Dale - Mischievous Ranger",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "dale-mischievous-ranger"
+},
+{
+  "name": "Donald Duck - Boisterous Fowl",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "donald-duck-boisterous-fowl"
+},
+{
+  "name": "Nani - Caring Sister",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "nani-caring-sister"
+},
+{
+  "name": "Simba - Pride Protector",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "simba-pride-protector"
+},
+{
+  "name": "Kanga - Nurturing Mother",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "kanga-nurturing-mother"
+},
+{
+  "name": "Rabbit - Indignant Pirate",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "rabbit-indignant-pirate"
+},
+{
+  "name": "Roo - Littlest Pirate",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "roo-littlest-pirate"
+},
+{
+  "name": "Mr. Litwak - Arcade Owner",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mr-litwak-arcade-owner"
+},
+{
+  "name": "Jim Hawkins - Honorable Pirate",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "jim-hawkins-honorable-pirate"
+},
+{
+  "name": "Stitch - Little Trickster",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "stitch-little-trickster"
+},
+{
+  "name": "Good Job!",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "good-job"
+},
+{
+  "name": "I Won't Give In",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "i-wont-give-in"
+},
+{
+  "name": "Elsa - Ice Surfer",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "elsa-ice-surfer"
+},
+{
+  "name": "Rescue Rangers Away!",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "rescue-rangers-away"
+},
+{
+  "name": "Safe and Sound",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "safe-and-sound"
+},
+{
+  "name": "Naveen's Ukulele",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "naveens-ukulele"
+},
+{
+  "name": "Pooh Pirate Ship",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "pooh-pirate-ship"
+},
+{
+  "name": "Scrump",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "scrump"
+},
+{
+  "name": "Hundred Acre Island - Pooh's Home",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "hundred-acre-island-poohs-home"
+},
+{
+  "name": "Sugar Rush Speedway - Finish Line",
+  "ink_cost": 2,
+  "rarity": "Super Rare",
+  "id": "sugar-rush-speedway-finish-line"
+},
+{
+  "name": "Hades - Lord of the Dead",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "hades-lord-of-the-dead"
+},
+{
+  "name": "Madam Mim - Tiny Adversary",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "madam-mim-tiny-adversary"
+},
+{
+  "name": "Genie - Excited Shipbuilder",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "genie-excited-shipbuilder"
+},
+{
+  "name": "Gaston - Arrogant Hunter",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gaston-arrogant-hunter"
+},
+{
+  "name": "Sisu - In Her Element",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "sisu-in-her-element"
+},
+{
+  "name": "The White Rose - Jewel of the Garden",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "the-white-rose-jewel-of-the-garden"
+},
+{
+  "name": "Juju - Mama Odie's Companion",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "juju-mama-odies-companion"
+},
+{
+  "name": "Rafiki - Shaman of the Savanna",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "rafiki-shaman-of-the-savanna"
+},
+{
+  "name": "Tinker Bell - Fast Flier",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "tinker-bell-fast-flier"
+},
+{
+  "name": "The Carpenter - Dinner Companion",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "the-carpenter-dinner-companion"
+},
+{
+  "name": "Iago - Reappearing Parrot",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "iago-reappearing-parrot"
+},
+{
+  "name": "The Walrus - Greedy Gourmand",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "the-walrus-greedy-gourmand"
+},
+{
+  "name": "Scar - Tempestuous Lion",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "scar-tempestuous-lion"
+},
+{
+  "name": "Tinker Bell - Queen of the Azurite Fairies",
+  "ink_cost": 7,
+  "rarity": "Uncommon",
+  "id": "tinker-bell-queen-of-the-azurite-fairies"
+},
+{
+  "name": "Mickey Mouse - True Friend",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "mickey-mouse-true-friend"
+},
+{
+  "name": "Goofy - Daredevil",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "goofy-daredevil"
+},
+{
+  "name": "Diablo - Obedient Raven",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "diablo-obedient-raven"
+},
+{
+  "name": "March Hare - Absurd Host",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "march-hare-absurd-host"
+},
+{
+  "name": "Magic Carpet - Amazing Flier",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "magic-carpet-amazing-flier"
+},
+{
+  "name": "Rafiki - Ethereal Guide",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "rafiki-ethereal-guide"
+},
+{
+  "name": "Genie - Wish Fulfilled",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "genie-wish-fulfilled"
+},
+{
+  "name": "Sisu - Uniting Dragon",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "sisu-uniting-dragon"
+},
+{
+  "name": "Madam Mim - Truly Marvelous",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "madam-mim-truly-marvelous"
+},
+{
+  "name": "Yzma - Conniving Chemist",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "yzma-conniving-chemist"
+},
+{
+  "name": "Mama Odie - Solitary Sage",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "mama-odie-solitary-sage"
+},
+{
+  "name": "Peter Pan - Shadow Catcher",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "peter-pan-shadow-catcher"
+},
+{
+  "name": "LeFou - Instigator",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "lefou-instigator"
+},
+{
+  "name": "Mad Hatter - Eccentric Host",
+  "ink_cost": 1,
+  "rarity": "Super Rare",
+  "id": "mad-hatter-eccentric-host"
+},
+{
+  "name": "A Very Merry Unbirthday",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "a-very-merry-unbirthday"
+},
+{
+  "name": "Genie - Wonderful Trickster",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "genie-wonderful-trickster"
+},
+{
+  "name": "Making Magic",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "making-magic"
+},
+{
+  "name": "Lose the Way",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "lose-the-way"
+},
+{
+  "name": "Seeking the Half Crown",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "seeking-the-half-crown"
+},
+{
+  "name": "Maleficent's Staff",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "maleficents-staff"
+},
+{
+  "name": "Mad Hatter's Teapot",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "mad-hatters-teapot"
+},
+{
+  "name": "Pixie Dust",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "pixie-dust"
+},
+{
+  "name": "Fairy Ship - Royal Vessel",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "fairy-ship-royal-vessel"
+},
+{
+  "name": "Maleficent - Monstrous Dragon",
+  "ink_cost": 9,
+  "rarity": "Legendary",
+  "id": "maleficent-monstrous-dragon"
+},
+{
+  "name": "Mystical Tree - Mama Odie's Home",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "mystical-tree-mama-odies-home"
+},
+{
+  "name": "Jasmine - Royal Seafarer",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "jasmine-royal-seafarer"
+},
+{
+  "name": "Captain Hook - Underhanded",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "captain-hook-underhanded"
+},
+{
+  "name": "Stitch - Alien Buccaneer",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "stitch-alien-buccaneer"
+},
+{
+  "name": "Go Go Tomago - Darting Dynamo",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "go-go-tomago-darting-dynamo"
+},
+{
+  "name": "Honey Lemon - Chemical Genius",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "honey-lemon-chemical-genius"
+},
+{
+  "name": "Fred - Mascot by Day",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "fred-mascot-by-day"
+},
+{
+  "name": "Tootles - Lost Boy",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "tootles-lost-boy"
+},
+{
+  "name": "Dawson - Basil's Assistant",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "dawson-basils-assistant"
+},
+{
+  "name": "Heathcliff - Stoic Butler",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "heathcliff-stoic-butler"
+},
+{
+  "name": "Maui - Hero to All",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "maui-hero-to-all"
+},
+{
+  "name": "Basil - Hypnotized Mouse",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "basil-hypnotized-mouse"
+},
+{
+  "name": "Donald Duck - First Mate",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "donald-duck-first-mate"
+},
+{
+  "name": "Daisy Duck - Pirate Captain",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "daisy-duck-pirate-captain"
+},
+{
+  "name": "Mertle Edmonds - Lilo's Rival",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "mertle-edmonds-lilos-rival"
+},
+{
+  "name": "Prince Phillip - Royal Explorer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "prince-phillip-royal-explorer"
+},
+{
+  "name": "Jasmine - Royal Commodore",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "jasmine-royal-commodore"
+},
+{
+  "name": "Peter Pan - Never Land Prankster",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "peter-pan-never-land-prankster"
+},
+{
+  "name": "Hercules - Baby Demigod",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "hercules-baby-demigod"
+},
+{
+  "name": "Alistair Krei - Ambitious Entrepreneur",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "alistair-krei-ambitious-entrepreneur"
+},
+{
+  "name": "Gazelle - Angel with Horns",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gazelle-angel-with-horns"
+},
+{
+  "name": "Mickey Mouse - Brave Little Tailor",
+  "ink_cost": 8,
+  "rarity": "Legendary",
+  "id": "mickey-mouse-brave-little-tailor"
+},
+{
+  "name": "Goofy - Expert Shipwright",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "goofy-expert-shipwright"
+},
+{
+  "name": "Bellwether - Assistant Mayor",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "bellwether-assistant-mayor"
+},
+{
+  "name": "Basil - Disguised Detective",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "basil-disguised-detective"
+},
+{
+  "name": "Olivia Flaversham - The Toymaker's Daughter",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "olivia-flaversham-the-toymakers-daughter"
+},
+{
+  "name": "Bend to My Will",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "bend-to-my-will"
+},
+{
+  "name": "Prepare to Board!",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "prepare-to-board"
+},
+{
+  "name": "Heffalumps and Woozles",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "heffalumps-and-woozles"
+},
+{
+  "name": "Mosquito Bite",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "mosquito-bite"
+},
+{
+  "name": "You Came Back",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "you-came-back"
+},
+{
+  "name": "MegaBot",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "megabot"
+},
+{
+  "name": "Minnie Mouse - Always Classy",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "minnie-mouse-always-classy"
+},
+{
+  "name": "Galactic Communicator",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "galactic-communicator"
+},
+{
+  "name": "Transport Pod",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "transport-pod"
+},
+{
+  "name": "Perilous Maze - Watery Labyrinth",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "perilous-maze-watery-labyrinth"
+},
+{
+  "name": "Owl Island - Secluded Entrance",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "owl-island-secluded-entrance"
+},
+{
+  "name": "Mickey Mouse - Pirate Captain",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "mickey-mouse-pirate-captain"
+},
+{
+  "name": "Kakamora - Boarding Party",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "kakamora-boarding-party"
+},
+{
+  "name": "Kakamora - Pirate Pitcher",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "kakamora-pirate-pitcher"
+},
+{
+  "name": "Jasmine - Rebellious Princess",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "jasmine-rebellious-princess"
+},
+{
+  "name": "Raya - Kumandran Rider",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "raya-kumandran-rider"
+},
+{
+  "name": "Wendy Darling - Courageous Captain",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "wendy-darling-courageous-captain"
+},
+{
+  "name": "Moana - Chosen by the Ocean",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "moana-chosen-by-the-ocean"
+},
+{
+  "name": "John Silver - Ferocious Friend",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "john-silver-ferocious-friend"
+},
+{
+  "name": "Vanellope Von Schweetz - Gutsy Go-Getter",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "vanellope-von-schweetz-gutsy-go-getter"
+},
+{
+  "name": "Michael Darling - Playful Swordsman",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "michael-darling-playful-swordsman"
+},
+{
+  "name": "Aladdin - Fearless Navigator",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "aladdin-fearless-navigator"
+},
+{
+  "name": "Markowski - Space Trooper",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "markowski-space-trooper"
+},
+{
+  "name": "Abu - Bold Helmsman",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "abu-bold-helmsman"
+},
+{
+  "name": "Mickey Mouse - Courageous Sailor",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mickey-mouse-courageous-sailor"
+},
+{
+  "name": "Adorabeezle Winterpop - Ice Rocket Racer",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "adorabeezle-winterpop-ice-rocket-racer"
+},
+{
+  "name": "Moana - Self-Taught Sailor",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "moana-self-taught-sailor"
+},
+{
+  "name": "John Darling - Sophisticated Swordsman",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "john-darling-sophisticated-swordsman"
+},
+{
+  "name": "Mulan - Imperial Soldier",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "mulan-imperial-soldier"
+},
+{
+  "name": "Aladdin - Intrepid Commander",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "aladdin-intrepid-commander"
+},
+{
+  "name": "Minnie Mouse - Pirate Lookout",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "minnie-mouse-pirate-lookout"
+},
+{
+  "name": "Moana - Kakamora Leader",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "moana-kakamora-leader"
+},
+{
+  "name": "Pete - Freebooter",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "pete-freebooter"
+},
+{
+  "name": "Goofy - Flying Goof",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "goofy-flying-goof"
+},
+{
+  "name": "Maui - Half-Shark",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "maui-half-shark"
+},
+{
+  "name": "Hades - Strong Arm",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "hades-strong-arm"
+},
+{
+  "name": "Tigger - In the Crow's Nest",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "tigger-in-the-crows-nest"
+},
+{
+  "name": "Scar - Heartless Hunter",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "scar-heartless-hunter"
+},
+{
+  "name": "Thievery",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "thievery"
+},
+{
+  "name": "Peter Pan - Fearless Fighter",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "peter-pan-fearless-fighter"
+},
+{
+  "name": "Lead the Way",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "lead-the-way"
+},
+{
+  "name": "The Islands I Pulled From the Sea",
+  "ink_cost": 3,
+  "rarity": "Enchanted",
+  "id": "the-islands-i-pulled-from-the-sea"
+},
+{
+  "name": "Energy Blast",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "energy-blast"
+},
+{
+  "name": "Longboat",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "longboat"
+},
+{
+  "name": "Gold Coin",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "gold-coin"
+},
+{
+  "name": "Card Soldier's Spear",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "card-soldiers-spear"
+},
+{
+  "name": "Flotilla - Coconut Armada",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "flotilla-coconut-armada"
+},
+{
+  "name": "Skull Rock - Isolated Fortress",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "skull-rock-isolated-fortress"
+},
+{
+  "name": "B.E.N. - Eccentric Robot",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "ben-eccentric-robot"
+},
+{
+  "name": "Aunt Cass - Biggest Fan",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "aunt-cass-biggest-fan"
+},
+{
+  "name": "Pongo - Ol' Rascal",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "pongo-ol-rascal"
+},
+{
+  "name": "Gadget Hackwrench - Creative Thinker",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "gadget-hackwrench-creative-thinker"
+},
+{
+  "name": "Gadget Hackwrench - Brilliant Bosun",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "gadget-hackwrench-brilliant-bosun"
+},
+{
+  "name": "Zipper - Astute Decoy",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "zipper-astute-decoy"
+},
+{
+  "name": "Oswald - The Lucky Rabbit",
+  "ink_cost": 2,
+  "rarity": "Legendary",
+  "id": "oswald-the-lucky-rabbit"
+},
+{
+  "name": "Yokai - Enigmatic Inventor",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "yokai-enigmatic-inventor"
+},
+{
+  "name": "Pleakley - Scientific Expert",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "pleakley-scientific-expert"
+},
+{
+  "name": "Hiro Hamada - Robotics Prodigy",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "hiro-hamada-robotics-prodigy"
+},
+{
+  "name": "HeiHei - Not-So-Tricky Chicken",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "heihei-not-so-tricky-chicken"
+},
+{
+  "name": "Sour Bill - Surly Henchman",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "sour-bill-surly-henchman"
+},
+{
+  "name": "Nick Wilde - Soggy Fox",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "nick-wilde-soggy-fox"
+},
+{
+  "name": "Minnie Mouse - Beloved Princess",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "minnie-mouse-beloved-princess"
+},
+{
+  "name": "Rapunzel - Letting Down Her Hair",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "rapunzel-letting-down-her-hair"
+},
+{
+  "name": "Wasabi - Methodical Engineer",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "wasabi-methodical-engineer"
+},
+{
+  "name": "Nick Wilde - Sly Fox",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "nick-wilde-sly-fox"
+},
+{
+  "name": "Gadget Hackwrench - Perceptive Mouse",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gadget-hackwrench-perceptive-mouse"
+},
+{
+  "name": "Dr. Delbert Doppler - Fussy Astronomer",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "dr-delbert-doppler-fussy-astronomer"
+},
+{
+  "name": "Tadashi Hamada - Baymax Inventor",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "tadashi-hamada-baymax-inventor"
+},
+{
+  "name": "Hiro Hamada - Team Leader",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "hiro-hamada-team-leader"
+},
+{
+  "name": "Tadashi Hamada - Gifted Roboticist",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "tadashi-hamada-gifted-roboticist"
+},
+{
+  "name": "Baymax - Personal Healthcare Companion",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "baymax-personal-healthcare-companion"
+},
+{
+  "name": "Baymax - Armored Companion",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "baymax-armored-companion"
+},
+{
+  "name": "Yokai - Professor Callaghan",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "yokai-professor-callaghan"
+},
+{
+  "name": "Scar - Fiery Usurper",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "scar-fiery-usurper"
+},
+{
+  "name": "Hiram Flaversham - Intrigued Inventor",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "hiram-flaversham-intrigued-inventor"
+},
+{
+  "name": "Yokai - Scientific Supervillain",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "yokai-scientific-supervillain"
+},
+{
+  "name": "Alice - Savvy Sailor",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "alice-savvy-sailor"
+},
+{
+  "name": "We Could Be Immortals",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "we-could-be-immortals"
+},
+{
+  "name": "Sail the Azurite Sea",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "sail-the-azurite-sea"
+},
+{
+  "name": "Helping Hand",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "helping-hand"
+},
+{
+  "name": "Prepare Your Bot",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "prepare-your-bot"
+},
+{
+  "name": "Baymax's Healthcare Chip",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "baymaxs-healthcare-chip"
+},
+{
+  "name": "Microbots",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "microbots"
+},
+{
+  "name": "Jumbo Pop",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "jumbo-pop"
+},
+{
+  "name": "Scar - Shameless Firebrand",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "scar-shameless-firebrand"
+},
+{
+  "name": "Rescue Rangers Submarine - Mobile Headquarters",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "rescue-rangers-submarine-mobile-headquarters"
+},
+{
+  "name": "Institute of Technology - Prestigious University",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "institute-of-technology-prestigious-university"
+},
+{
+  "name": "Kakamora - Long-Range Specialist",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "kakamora-long-range-specialist"
+},
+{
+  "name": "Kakamora - Pirate Chief",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "kakamora-pirate-chief"
+},
+{
+  "name": "Jim Hawkins - Stubborn Cabin Boy",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "jim-hawkins-stubborn-cabin-boy"
+},
+{
+  "name": "Mr. Big - Shrewd Tycoon",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "mr-big-shrewd-tycoon"
+},
+{
+  "name": "Mr. Smee - Steadfast Mate",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "mr-smee-steadfast-mate"
+},
+{
+  "name": "Mr. Smee - Captain of the Jolly Roger",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "mr-smee-captain-of-the-jolly-roger"
+},
+{
+  "name": "Mullins - Seasoned Shipmate",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "mullins-seasoned-shipmate"
+},
+{
+  "name": "Kohut - Trusted Marine",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "kohut-trusted-marine"
+},
+{
+  "name": "Sergeant Tibbs - Courageous Cat",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "sergeant-tibbs-courageous-cat"
+},
+{
+  "name": "King Hubert - Phillip's Father",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "king-hubert-phillips-father"
+},
+{
+  "name": "Hercules - Unwavering Demigod",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "hercules-unwavering-demigod"
+},
+{
+  "name": "John Silver - Ship's Cook",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "john-silver-ships-cook"
+},
+{
+  "name": "Mr. Arrow - Legacy's First Mate",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "mr-arrow-legacys-first-mate"
+},
+{
+  "name": "Jim Hawkins - Rigging Specialist",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "jim-hawkins-rigging-specialist"
+},
+{
+  "name": "Tuk Tuk - Big Buddy",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "tuk-tuk-big-buddy"
+},
+{
+  "name": "Billy Bones - Space Sailor",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "billy-bones-space-sailor"
+},
+{
+  "name": "Pluto - Guard Dog",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "pluto-guard-dog"
+},
+{
+  "name": "Mickey Mouse - Night Watch",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "mickey-mouse-night-watch"
+},
+{
+  "name": "Cobra Bubbles - Former CIA",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "cobra-bubbles-former-cia"
+},
+{
+  "name": "Stitch - Abomination",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "stitch-abomination"
+},
+{
+  "name": "Gantu - Captain Crankyhead",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "gantu-captain-crankyhead"
+},
+{
+  "name": "Wreck-It Ralph - Ham Hands",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "wreck-it-ralph-ham-hands"
+},
+{
+  "name": "Calhoun - Marine Sergeant",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "calhoun-marine-sergeant"
+},
+{
+  "name": "Captain Amelia - Commander of the Legacy",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "captain-amelia-commander-of-the-legacy"
+},
+{
+  "name": "Jafar - Power-Hungry Vizier",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "jafar-power-hungry-vizier"
+},
+{
+  "name": "John Silver - Stern Captain",
+  "ink_cost": 8,
+  "rarity": "Legendary",
+  "id": "john-silver-stern-captain"
+},
+{
+  "name": "Hot Potato",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "hot-potato"
+},
+{
+  "name": "I'm Still Here",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "im-still-here"
+},
+{
+  "name": "Twin Fire",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "twin-fire"
+},
+{
+  "name": "Ambush!",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "ambush"
+},
+{
+  "name": "Te Kā - The Burning One",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "te-ka-the-burning-one"
+},
+{
+  "name": "Unfortunate Situation",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "unfortunate-situation"
+},
+{
+  "name": "King's Sensor Core",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "kings-sensor-core"
+},
+{
+  "name": "Training Dummy",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "training-dummy"
+},
+{
+  "name": "Sunglasses",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "sunglasses"
+},
+{
+  "name": "Treasure Mountain - Azurite Sea Island",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "treasure-mountain-azurite-sea-island"
+},
+{
+  "name": "Galactic Council Chamber - Courtroom",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "galactic-council-chamber-courtroom"
+},
+{
+  "name": "Tigger - Wonderful Thing",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "tigger-wonderful-thing"
+},
+{
+  "name": "Be Prepared",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "be-prepared"
+},
+{
+  "name": "Cut to the Chase",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "cut-to-the-chase"
+},
+{
+  "name": "Dragon Fire",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "dragon-fire"
+},
+{
+  "name": "Moana - Of Motunui",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "moana-of-motunui"
+},
+{
+  "name": "Fan the Flames",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "fan-the-flames"
+},
+{
+  "name": "He's Got a Sword!",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "hes-got-a-sword"
+},
+{
+  "name": "Tangle",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "tangle"
+},
+{
+  "name": "Poisoned Apple",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "poisoned-apple"
+},
+{
+  "name": "Shield of Virtue",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "shield-of-virtue"
+},
+{
+  "name": "Sword of Truth",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "sword-of-truth"
+},
+{
+  "name": "Ariel - Whoseit Collector",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "ariel-whoseit-collector"
+},
+{
+  "name": "Aurora - Briar Rose",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "aurora-briar-rose"
+},
+{
+  "name": "Aurora - Dreaming Guardian",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "aurora-dreaming-guardian"
+},
+{
+  "name": "Aurora - Regal Princess",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "aurora-regal-princess"
+},
+{
+  "name": "Mr. Smee - Loyal First Mate",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mr-smee-loyal-first-mate"
+},
+{
+  "name": "Belle - Inventive Engineer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "belle-inventive-engineer"
+},
+{
+  "name": "Belle - Strange but Special",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "belle-strange-but-special"
+},
+{
+  "name": "Chief Tui - Respected Leader",
+  "ink_cost": 7,
+  "rarity": "Uncommon",
+  "id": "chief-tui-respected-leader"
+},
+{
+  "name": "Donald Duck - Strutting His Stuff",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "donald-duck-strutting-his-stuff"
+},
+{
+  "name": "Flounder - Voice of Reason",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "flounder-voice-of-reason"
+},
+{
+  "name": "Gramma Tala - Storyteller",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "gramma-tala-storyteller"
+},
+{
+  "name": "Hades - Infernal Schemer",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "hades-infernal-schemer"
+},
+{
+  "name": "Jasmine - Disguised",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "jasmine-disguised"
+},
+{
+  "name": "Jasmine - Queen of Agrabah",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "jasmine-queen-of-agrabah"
+},
+{
+  "name": "Maleficent - Sinister Visitor",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "maleficent-sinister-visitor"
+},
+{
+  "name": "Prince Phillip - Dragonslayer",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "prince-phillip-dragonslayer"
+},
+{
+  "name": "Maleficent - Uninvited",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "maleficent-uninvited"
+},
+{
+  "name": "Maurice - World-Famous Inventor",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "maurice-world-famous-inventor"
+},
+{
+  "name": "Merlin - Self-Appointed Mentor",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "merlin-self-appointed-mentor"
+},
+{
+  "name": "Mickey Mouse - Detective",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mickey-mouse-detective"
+},
+{
+  "name": "Mufasa - King of the Pride Lands",
+  "ink_cost": 6,
+  "rarity": "Common",
+  "id": "mufasa-king-of-the-pride-lands"
+},
+{
+  "name": "Philoctetes - Trainer of Heroes",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "philoctetes-trainer-of-heroes"
+},
+{
+  "name": "Robin Hood - Unrivaled Archer",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "robin-hood-unrivaled-archer"
+},
+{
+  "name": "Scar - Mastermind",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "scar-mastermind"
+},
+{
+  "name": "Tamatoa - So Shiny!",
+  "ink_cost": 8,
+  "rarity": "Super Rare",
+  "id": "tamatoa-so-shiny"
+},
+{
+  "name": "Triton - The Sea King",
+  "ink_cost": 7,
+  "rarity": "Uncommon",
+  "id": "triton-the-sea-king"
+},
+{
+  "name": "Pumbaa - Friendly Warthog",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "pumbaa-friendly-warthog"
+},
+{
+  "name": "Develop Your Brain",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "develop-your-brain"
+},
+{
+  "name": "If It's Not Baroque",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "if-its-not-baroque"
+},
+{
+  "name": "Let It Go",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "let-it-go"
+},
+{
+  "name": "One Jump Ahead",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "one-jump-ahead"
+},
+{
+  "name": "Work Together",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "work-together"
+},
+{
+  "name": "Coconut Basket",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "coconut-basket"
+},
+{
+  "name": "Eye of the Fates",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "eye-of-the-fates"
+},
+{
+  "name": "Fishbone Quill",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "fishbone-quill"
+},
+{
+  "name": "Magic Golden Flower",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "magic-golden-flower"
+},
+{
+  "name": "Scepter of Arendelle",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "scepter-of-arendelle"
+},
+{
+  "name": "Rapunzel - Gifted with Healing",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "rapunzel-gifted-with-healing"
+},
+{
+  "name": "Aladdin - Cornered Swordsman",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "aladdin-cornered-swordsman"
+},
+{
+  "name": "Beast - Hardheaded",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "beast-hardheaded"
+},
+{
+  "name": "Captain Hook - Captain of the Jolly Roger",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "captain-hook-captain-of-the-jolly-roger"
+},
+{
+  "name": "Captain Hook - Forceful Duelist",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "captain-hook-forceful-duelist"
+},
+{
+  "name": "Captain Hook - Thinking a Happy Thought",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "captain-hook-thinking-a-happy-thought"
+},
+{
+  "name": "Cerberus - Three-Headed Dog",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "cerberus-three-headed-dog"
+},
+{
+  "name": "Donald Duck - Musketeer",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "donald-duck-musketeer"
+},
+{
+  "name": "Gantu - Galactic Federation Captain",
+  "ink_cost": 8,
+  "rarity": "Legendary",
+  "id": "gantu-galactic-federation-captain"
+},
+{
+  "name": "Goons - Maleficent's Underlings",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "goons-maleficents-underlings"
+},
+{
+  "name": "Hans - Thirteenth in Line",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "hans-thirteenth-in-line"
+},
+{
+  "name": "Sebastian - Court Composer",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "sebastian-court-composer"
+},
+{
+  "name": "Hercules - True Hero",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "hercules-true-hero"
+},
+{
+  "name": "Kristoff - Official Ice Master",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "kristoff-official-ice-master"
+},
+{
+  "name": "Kronk - Right-Hand Man",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "kronk-right-hand-man"
+},
+{
+  "name": "Lilo - Galactic Hero",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "lilo-galactic-hero"
+},
+{
+  "name": "Maui - Demigod",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "maui-demigod"
+},
+{
+  "name": "Mickey Mouse - Musketeer",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "mickey-mouse-musketeer"
+},
+{
+  "name": "Prince Eric - Dashing and Brave",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "prince-eric-dashing-and-brave"
+},
+{
+  "name": "Simba - Future King",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "simba-future-king"
+},
+{
+  "name": "Simba - Returned King",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "simba-returned-king"
+},
+{
+  "name": "Simba - Rightful Heir",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "simba-rightful-heir"
+},
+{
+  "name": "Simba - Protective Cub",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "simba-protective-cub"
+},
+{
+  "name": "Starkey - Hook's Henchman",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "starkey-hooks-henchman"
+},
+{
+  "name": "Te Kā - Heartless",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "te-ka-heartless"
+},
+{
+  "name": "Tinker Bell - Giant Fairy",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "tinker-bell-giant-fairy"
+},
+{
+  "name": "Tinker Bell - Tiny Tactician",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "tinker-bell-tiny-tactician"
+},
+{
+  "name": "A Whole New World",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "a-whole-new-world"
+},
+{
+  "name": "Break",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "break"
+},
+{
+  "name": "Fire the Cannons!",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "fire-the-cannons"
+},
+{
+  "name": "Grab Your Sword",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "grab-your-sword"
+},
+{
+  "name": "Ransack",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "ransack"
+},
+{
+  "name": "Smash",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "smash"
+},
+{
+  "name": "Cinderella - Gentle and Kind",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "cinderella-gentle-and-kind"
+},
+{
+  "name": "Stitch - Carefree Surfer",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "stitch-carefree-surfer"
+},
+{
+  "name": "Beast's Mirror",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "beasts-mirror"
+},
+{
+  "name": "Frying Pan",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "frying-pan"
+},
+{
+  "name": "Musketeer Tabard",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "musketeer-tabard"
+},
+{
+  "name": "Plasma Blaster",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "plasma-blaster"
+},
+{
+  "name": "Bashful - Hopeless Romantic",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "bashful-hopeless-romantic"
+},
+{
+  "name": "Christopher Robin - Adventurer",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "christopher-robin-adventurer"
+},
+{
+  "name": "Cinderella - Ballroom Sensation",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "cinderella-ballroom-sensation"
+},
+{
+  "name": "Cobra Bubbles - Just a Social Worker",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "cobra-bubbles-just-a-social-worker"
+},
+{
+  "name": "Doc - Leader of the Seven Dwarfs",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "doc-leader-of-the-seven-dwarfs"
+},
+{
+  "name": "Dopey - Always Playful",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "dopey-always-playful"
+},
+{
+  "name": "Stitch - New Dog",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "stitch-new-dog"
+},
+{
+  "name": "Eudora - Accomplished Seamstress",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "eudora-accomplished-seamstress"
+},
+{
+  "name": "Gaston - Baritone Bully",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "gaston-baritone-bully"
+},
+{
+  "name": "Grand Duke - Advisor to the King",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "grand-duke-advisor-to-the-king"
+},
+{
+  "name": "Grumpy - Bad-Tempered",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "grumpy-bad-tempered"
+},
+{
+  "name": "Happy - Good-Natured",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "happy-good-natured"
+},
+{
+  "name": "King Louie - Jungle VIP",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "king-louie-jungle-vip"
+},
+{
+  "name": "Mickey Mouse - Friendly Face",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "mickey-mouse-friendly-face"
+},
+{
+  "name": "Mufasa - Betrayed Leader",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "mufasa-betrayed-leader"
+},
+{
+  "name": "Mulan - Free Spirit",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mulan-free-spirit"
+},
+{
+  "name": "Mulan - Reflecting",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "mulan-reflecting"
+},
+{
+  "name": "Stitch - Rock Star",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "stitch-rock-star"
+},
+{
+  "name": "Nana - Darling Family Pet",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "nana-darling-family-pet"
+},
+{
+  "name": "Piglet - Very Small Animal",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "piglet-very-small-animal"
+},
+{
+  "name": "Rapunzel - Gifted Artist",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "rapunzel-gifted-artist"
+},
+{
+  "name": "Rapunzel - Sunshine",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "rapunzel-sunshine"
+},
+{
+  "name": "Sleepy - Nodding Off",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "sleepy-nodding-off"
+},
+{
+  "name": "Sneezy - Very Allergic",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "sneezy-very-allergic"
+},
+{
+  "name": "Snow White - Lost in the Forest",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "snow-white-lost-in-the-forest"
+},
+{
+  "name": "Snow White - Unexpected Houseguest",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "snow-white-unexpected-houseguest"
+},
+{
+  "name": "Snow White - Well Wisher",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "snow-white-well-wisher"
+},
+{
+  "name": "The Queen - Commanding Presence",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "the-queen-commanding-presence"
+},
+{
+  "name": "Timon - Grub Rustler",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "timon-grub-rustler"
+},
+{
+  "name": "The Queen - Regal Monarch",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "the-queen-regal-monarch"
+},
+{
+  "name": "Hold Still",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "hold-still"
+},
+{
+  "name": "Last Stand",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "last-stand"
+},
+{
+  "name": "Painting the Roses Red",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "painting-the-roses-red"
+},
+{
+  "name": "World's Greatest Criminal Mind",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "worlds-greatest-criminal-mind"
+},
+{
+  "name": "Zero to Hero",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "zero-to-hero"
+},
+{
+  "name": "Dragon Gem",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "dragon-gem"
+},
+{
+  "name": "Sleepy's Flute",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "sleepys-flute"
+},
+{
+  "name": "Arthur - Wizard's Apprentice",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "arthur-wizards-apprentice"
+},
+{
+  "name": "Blue Fairy - Rewarding Good Deeds",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "blue-fairy-rewarding-good-deeds"
+},
+{
+  "name": "Be Our Guest",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "be-our-guest"
+},
+{
+  "name": "Chip the Teacup - Gentle Soul",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "chip-the-teacup-gentle-soul"
+},
+{
+  "name": "Dr. Facilier - Savvy Opportunist",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "dr-facilier-savvy-opportunist"
+},
+{
+  "name": "Elsa - Gloves Off",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "elsa-gloves-off"
+},
+{
+  "name": "Fairy Godmother - Here to Help",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "fairy-godmother-here-to-help"
+},
+{
+  "name": "Fairy Godmother - Mystic Armorer",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "fairy-godmother-mystic-armorer"
+},
+{
+  "name": "Fairy Godmother - Pure Heart",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "fairy-godmother-pure-heart"
+},
+{
+  "name": "HeiHei - Persistent Presence",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "heihei-persistent-presence"
+},
+{
+  "name": "Jiminy Cricket - Pinocchio's Conscience",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "jiminy-cricket-pinocchios-conscience"
+},
+{
+  "name": "Kuzco - Wanted Llama",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "kuzco-wanted-llama"
+},
+{
+  "name": "Madam Mim - Fox",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "madam-mim-fox"
+},
+{
+  "name": "Control Your Temper!",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "control-your-temper"
+},
+{
+  "name": "Madam Mim - Purple Dragon",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "madam-mim-purple-dragon"
+},
+{
+  "name": "Madam Mim - Rival of Merlin",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "madam-mim-rival-of-merlin"
+},
+{
+  "name": "Madam Mim - Snake",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "madam-mim-snake"
+},
+{
+  "name": "Merlin - Crab",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "merlin-crab"
+},
+{
+  "name": "Merlin - Goat",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "merlin-goat"
+},
+{
+  "name": "Merlin - Rabbit",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "merlin-rabbit"
+},
+{
+  "name": "Merlin - Shapeshifter",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "merlin-shapeshifter"
+},
+{
+  "name": "Merlin - Squirrel",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "merlin-squirrel"
+},
+{
+  "name": "Peter Pan's Shadow - Not Sewn On",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "peter-pans-shadow-not-sewn-on"
+},
+{
+  "name": "Pinocchio - Star Attraction",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "pinocchio-star-attraction"
+},
+{
+  "name": "Hakuna Matata",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "hakuna-matata"
+},
+{
+  "name": "Pinocchio - On the Run",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "pinocchio-on-the-run"
+},
+{
+  "name": "Pinocchio - Talkative Puppet",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "pinocchio-talkative-puppet"
+},
+{
+  "name": "Winnie the Pooh - Hunny Wizard",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "winnie-the-pooh-hunny-wizard"
+},
+{
+  "name": "Yzma - Scary Beyond All Reason",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "yzma-scary-beyond-all-reason"
+},
+{
+  "name": "Yzma - Without Beauty Sleep",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "yzma-without-beauty-sleep"
+},
+{
+  "name": "Gruesome and Grim",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "gruesome-and-grim"
+},
+{
+  "name": "I'm Stuck!",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "im-stuck"
+},
+{
+  "name": "Legend of the Sword in the Stone",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "legend-of-the-sword-in-the-stone"
+},
+{
+  "name": "Binding Contract",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "binding-contract"
+},
+{
+  "name": "Croquet Mallet",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "croquet-mallet"
+},
+{
+  "name": "Healing Glow",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "healing-glow"
+},
+{
+  "name": "Perplexing Signposts",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "perplexing-signposts"
+},
+{
+  "name": "The Sorcerer's Spellbook",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "the-sorcerers-spellbook"
+},
+{
+  "name": "Arthur - Trained Swordsman",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "arthur-trained-swordsman"
+},
+{
+  "name": "Beast - Relentless",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "beast-relentless"
+},
+{
+  "name": "Belle - Bookworm",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "belle-bookworm"
+},
+{
+  "name": "Belle - Hidden Archer",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "belle-hidden-archer"
+},
+{
+  "name": "Bucky - Squirrel Squeak Tutor",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "bucky-squirrel-squeak-tutor"
+},
+{
+  "name": "Cheshire Cat - Always Grinning",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "cheshire-cat-always-grinning"
+},
+{
+  "name": "Cheshire Cat - From the Shadows",
+  "ink_cost": 8,
+  "rarity": "Super Rare",
+  "id": "cheshire-cat-from-the-shadows"
+},
+{
+  "name": "Daisy Duck - Secret Agent",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "daisy-duck-secret-agent"
+},
+{
+  "name": "Just in Time",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "just-in-time"
+},
+{
+  "name": "Donald Duck - Perfect Gentleman",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "donald-duck-perfect-gentleman"
+},
+{
+  "name": "Donald Duck - Sleepwalker",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "donald-duck-sleepwalker"
+},
+{
+  "name": "Dr. Facilier - Fortune Teller",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "dr-facilier-fortune-teller"
+},
+{
+  "name": "Enchantress - Unexpected Judge",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "enchantress-unexpected-judge"
+},
+{
+  "name": "Flynn Rider - Confident Vagabond",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "flynn-rider-confident-vagabond"
+},
+{
+  "name": "Flynn Rider - His Own Biggest Fan",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "flynn-rider-his-own-biggest-fan"
+},
+{
+  "name": "Gaston - Scheming Suitor",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gaston-scheming-suitor"
+},
+{
+  "name": "Little John - Loyal Friend",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "little-john-loyal-friend"
+},
+{
+  "name": "Lucifer - Cunning Cat",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "lucifer-cunning-cat"
+},
+{
+  "name": "Pain - Underworld Imp",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "pain-underworld-imp"
+},
+{
+  "name": "Part of Your World",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "part-of-your-world"
+},
+{
+  "name": "Panic - Underworld Imp",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "panic-underworld-imp"
+},
+{
+  "name": "Pete - Bad Guy",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "pete-bad-guy"
+},
+{
+  "name": "Prince John - Greediest of All",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "prince-john-greediest-of-all"
+},
+{
+  "name": "Queen of Hearts - Quick-Tempered",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "queen-of-hearts-quick-tempered"
+},
+{
+  "name": "Ratigan - Criminal Mastermind",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "ratigan-criminal-mastermind"
+},
+{
+  "name": "Ray - Easygoing Firefly",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "ray-easygoing-firefly"
+},
+{
+  "name": "The Queen - Disguised Peddler",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "the-queen-disguised-peddler"
+},
+{
+  "name": "Tiana - True Princess",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "tiana-true-princess"
+},
+{
+  "name": "Virana - Fang Chief",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "virana-fang-chief"
+},
+{
+  "name": "Bibbidi Bobbidi Boo",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "bibbidi-bobbidi-boo"
+},
+{
+  "name": "Goofy - Musketeer",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "goofy-musketeer"
+},
+{
+  "name": "You Have Forgotten Me",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "you-have-forgotten-me"
+},
+{
+  "name": "Bounce",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "bounce"
+},
+{
+  "name": "Hypnotize",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "hypnotize"
+},
+{
+  "name": "Improvise",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "improvise"
+},
+{
+  "name": "Pack Tactics",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "pack-tactics"
+},
+{
+  "name": "Ring the Bell",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "ring-the-bell"
+},
+{
+  "name": "Ratigan's Marvelous Trap",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "ratigans-marvelous-trap"
+},
+{
+  "name": "Baloo - Fun-Loving Bear",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "baloo-fun-loving-bear"
+},
+{
+  "name": "Boun - Precocious Entrepreneur",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "boun-precocious-entrepreneur"
+},
+{
+  "name": "Card Soldiers - Full Deck",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "card-soldiers-full-deck"
+},
+{
+  "name": "Donald Duck - Not Again!",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "donald-duck-not-again"
+},
+{
+  "name": "Dinglehopper",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "dinglehopper"
+},
+{
+  "name": "Felicia - Always Hungry",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "felicia-always-hungry"
+},
+{
+  "name": "Fidget - Ratigan's Henchman",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "fidget-ratigans-henchman"
+},
+{
+  "name": "Honest John - Not That Honest",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "honest-john-not-that-honest"
+},
+{
+  "name": "Lady Tremaine - Imperious Queen",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "lady-tremaine-imperious-queen"
+},
+{
+  "name": "Lady Tremaine - Overbearing Matriarch",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "lady-tremaine-overbearing-matriarch"
+},
+{
+  "name": "Lumiere - Hotheaded Candelabra",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "lumiere-hotheaded-candelabra"
+},
+{
+  "name": "Minnie Mouse - Stylish Surfer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "minnie-mouse-stylish-surfer"
+},
+{
+  "name": "Minnie Mouse - Wide-Eyed Diver",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "minnie-mouse-wide-eyed-diver"
+},
+{
+  "name": "Minnie Mouse - Zipping Around",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "minnie-mouse-zipping-around"
+},
+{
+  "name": "Mother Gothel - Withered and Wicked",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "mother-gothel-withered-and-wicked"
+},
+{
+  "name": "Lantern",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "lantern"
+},
+{
+  "name": "Mulan - Soldier in Training",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "mulan-soldier-in-training"
+},
+{
+  "name": "Namaari - Nemesis",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "namaari-nemesis"
+},
+{
+  "name": "Queen of Hearts - Impulsive Ruler",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "queen-of-hearts-impulsive-ruler"
+},
+{
+  "name": "Queen of Hearts - Sensing Weakness",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "queen-of-hearts-sensing-weakness"
+},
+{
+  "name": "Ratigan - Very Large Mouse",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "ratigan-very-large-mouse"
+},
+{
+  "name": "Raya - Headstrong",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "raya-headstrong"
+},
+{
+  "name": "Raya - Leader of Heart",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "raya-leader-of-heart"
+},
+{
+  "name": "Raya - Warrior of Kumandra",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "raya-warrior-of-kumandra"
+},
+{
+  "name": "Scar - Vicious Cheater",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "scar-vicious-cheater"
+},
+{
+  "name": "Shere Khan - Menacing Predator",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "shere-khan-menacing-predator"
+},
+{
+  "name": "Ursula's Shell Necklace",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "ursulas-shell-necklace"
+},
+{
+  "name": "Tigger - One of a Kind",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "tigger-one-of-a-kind"
+},
+{
+  "name": "Tuk Tuk - Wrecking Ball",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "tuk-tuk-wrecking-ball"
+},
+{
+  "name": "Go the Distance",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "go-the-distance"
+},
+{
+  "name": "Teeth and Ambitions",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "teeth-and-ambitions"
+},
+{
+  "name": "The Most Diabolical Scheme",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "the-most-diabolical-scheme"
+},
+{
+  "name": "What Did You Call Me?",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "what-did-you-call-me"
+},
+{
+  "name": "You Can Fly!",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "you-can-fly"
+},
+{
+  "name": "Dinner Bell",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "dinner-bell"
+},
+{
+  "name": "Peter Pan's Dagger",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "peter-pans-dagger"
+},
+{
+  "name": "Sword in the Stone",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "sword-in-the-stone"
+},
+{
+  "name": "Anna - Heir to Arendelle",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "anna-heir-to-arendelle"
+},
+{
+  "name": "Alice - Growing Girl",
+  "ink_cost": 3,
+  "rarity": "Legendary",
+  "id": "alice-growing-girl"
+},
+{
+  "name": "Basil - Great Mouse Detective",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "basil-great-mouse-detective"
+},
+{
+  "name": "Basil - Of Baker Street",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "basil-of-baker-street"
+},
+{
+  "name": "Basil - Perceptive Investigator",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "basil-perceptive-investigator"
+},
+{
+  "name": "Caterpillar - Calm and Collected",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "caterpillar-calm-and-collected"
+},
+{
+  "name": "Cogsworth - Grandfather Clock",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "cogsworth-grandfather-clock"
+},
+{
+  "name": "Cogsworth - Talking Clock",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "cogsworth-talking-clock"
+},
+{
+  "name": "Cruella De Vil - Fashionable Cruiser",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "cruella-de-vil-fashionable-cruiser"
+},
+{
+  "name": "Cruella De Vil - Perfectly Wretched",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "cruella-de-vil-perfectly-wretched"
+},
+{
+  "name": "Duke Weaselton - Small-Time Crook",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "duke-weaselton-small-time-crook"
+},
+{
+  "name": "Archimedes - Highly Educated Owl",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "archimedes-highly-educated-owl"
+},
+{
+  "name": "Gaston - Intellectual Powerhouse",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "gaston-intellectual-powerhouse"
+},
+{
+  "name": "Grand Pabbie - Oldest and Wisest",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "grand-pabbie-oldest-and-wisest"
+},
+{
+  "name": "Hiram Flaversham - Toymaker",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "hiram-flaversham-toymaker"
+},
+{
+  "name": "James - Role Model",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "james-role-model"
+},
+{
+  "name": "Jasmine - Heir of Agrabah",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "jasmine-heir-of-agrabah"
+},
+{
+  "name": "Judy Hopps - Optimistic Officer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "judy-hopps-optimistic-officer"
+},
+{
+  "name": "Mrs. Judson - Housekeeper",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "mrs-judson-housekeeper"
+},
+{
+  "name": "Nick Wilde - Wily Fox",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "nick-wilde-wily-fox"
+},
+{
+  "name": "Noi - Orphaned Thief",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "noi-orphaned-thief"
+},
+{
+  "name": "Owl - Logical Lecturer",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "owl-logical-lecturer"
+},
+{
+  "name": "Dr. Facilier - Agent Provocateur",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "dr-facilier-agent-provocateur"
+},
+{
+  "name": "Prince Charming - Heir to the Throne",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "prince-charming-heir-to-the-throne"
+},
+{
+  "name": "Rabbit - Reluctant Host",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "rabbit-reluctant-host"
+},
+{
+  "name": "Sisu - Divine Water Dragon",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "sisu-divine-water-dragon"
+},
+{
+  "name": "The Nokk - Water Spirit",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "the-nokk-water-spirit"
+},
+{
+  "name": "Winnie the Pooh - Having a Think",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "winnie-the-pooh-having-a-think"
+},
+{
+  "name": "Falling Down the Rabbit Hole",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "falling-down-the-rabbit-hole"
+},
+{
+  "name": "Four Dozen Eggs",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "four-dozen-eggs"
+},
+{
+  "name": "Launch",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "launch"
+},
+{
+  "name": "Nothing to Hide",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "nothing-to-hide"
+},
+{
+  "name": "Fang Crossbow",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "fang-crossbow"
+},
+{
+  "name": "Dr. Facilier - Charlatan",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "dr-facilier-charlatan"
+},
+{
+  "name": "Gumbo Pot",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gumbo-pot"
+},
+{
+  "name": "Maurice's Workshop",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "maurices-workshop"
+},
+{
+  "name": "Pawpsicle",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "pawpsicle"
+},
+{
+  "name": "Sardine Can",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "sardine-can"
+},
+{
+  "name": "Beast - Forbidding Recluse",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "beast-forbidding-recluse"
+},
+{
+  "name": "Beast - Selfless Protector",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "beast-selfless-protector"
+},
+{
+  "name": "Beast - Tragic Hero",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "beast-tragic-hero"
+},
+{
+  "name": "Benja - Guardian of the Dragon Gem",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "benja-guardian-of-the-dragon-gem"
+},
+{
+  "name": "Chief Bogo - Respected Officer",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "chief-bogo-respected-officer"
+},
+{
+  "name": "Cinderella - Knight in Training",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "cinderella-knight-in-training"
+},
+{
+  "name": "Dr. Facilier - Remarkable Gentleman",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "dr-facilier-remarkable-gentleman"
+},
+{
+  "name": "Cinderella - Stouthearted",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "cinderella-stouthearted"
+},
+{
+  "name": "Donald Duck - Deep-Sea Diver",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "donald-duck-deep-sea-diver"
+},
+{
+  "name": "Eli La Bouff - Big Daddy",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "eli-la-bouff-big-daddy"
+},
+{
+  "name": "Goofy - Knight for a Day",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "goofy-knight-for-a-day"
+},
+{
+  "name": "Hercules - Divine Hero",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "hercules-divine-hero"
+},
+{
+  "name": "Hercules - Hero in Training",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "hercules-hero-in-training"
+},
+{
+  "name": "Jafar - Dreadnought",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "jafar-dreadnought"
+},
+{
+  "name": "Jafar - Royal Vizier",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "jafar-royal-vizier"
+},
+{
+  "name": "Kronk - Junior Chipmunk",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "kronk-junior-chipmunk"
+},
+{
+  "name": "Lawrence - Jealous Manservant",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "lawrence-jealous-manservant"
+},
+{
+  "name": "Elsa - Queen Regent",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "elsa-queen-regent"
+},
+{
+  "name": "Li Shang - Archery Instructor",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "li-shang-archery-instructor"
+},
+{
+  "name": "Magic Broom - Industrial Model",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "magic-broom-industrial-model"
+},
+{
+  "name": "Namaari - Morning Mist",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "namaari-morning-mist"
+},
+{
+  "name": "Pacha - Village Leader",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "pacha-village-leader"
+},
+{
+  "name": "Prince Naveen - Penniless Royal",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "prince-naveen-penniless-royal"
+},
+{
+  "name": "Queen of Hearts - Capricious Monarch",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "queen-of-hearts-capricious-monarch"
+},
+{
+  "name": "Robin Hood - Capable Fighter",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "robin-hood-capable-fighter"
+},
+{
+  "name": "The Huntsman - Reluctant Enforcer",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "the-huntsman-reluctant-enforcer"
+},
+{
+  "name": "The Prince - Never Gives Up",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "the-prince-never-gives-up"
+},
+{
+  "name": "Tiana - Celebrating Princess",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "tiana-celebrating-princess"
+},
+{
+  "name": "Hades - King of Olympus",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "hades-king-of-olympus"
+},
+{
+  "name": "Elsa - Snow Queen",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "elsa-snow-queen"
+},
+{
+  "name": "Tiana - Diligent Waitress",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "tiana-diligent-waitress"
+},
+{
+  "name": "Charge!",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "charge"
+},
+{
+  "name": "Let the Storm Rage On",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "let-the-storm-rage-on"
+},
+{
+  "name": "Pick a Fight",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "pick-a-fight"
+},
+{
+  "name": "Strength of a Raging Fire",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "strength-of-a-raging-fire"
+},
+{
+  "name": "Last Cannon",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "last-cannon"
+},
+{
+  "name": "Mouse Armor",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "mouse-armor"
+},
+{
+  "name": "Weight Set",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "weight-set"
+},
+{
+  "name": "Baloo - von Bruinwald XIII",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "baloo-von-bruinwald-xiii"
+},
+{
+  "name": "Bernard - Brand-New Agent",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "bernard-brand-new-agent"
+},
+{
+  "name": "Elsa - Spirit of Winter",
+  "ink_cost": 8,
+  "rarity": "Legendary",
+  "id": "elsa-spirit-of-winter"
+},
+{
+  "name": "Chernabog - Evildoer",
+  "ink_cost": 10,
+  "rarity": "Super Rare",
+  "id": "chernabog-evildoer"
+},
+{
+  "name": "Dalmatian Puppy - Tail Wagger",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "dalmatian-puppy-tail-wagger"
+},
+{
+  "name": "Joshua Sweet - The Doctor",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "joshua-sweet-the-doctor"
+},
+{
+  "name": "Kida - Atlantean",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "kida-atlantean"
+},
+{
+  "name": "Kida - Protector of Atlantis",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "kida-protector-of-atlantis"
+},
+{
+  "name": "Lucky - The 15th Puppy",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "lucky-the-15th-puppy"
+},
+{
+  "name": "Minnie Mouse - Musical Artist",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "minnie-mouse-musical-artist"
+},
+{
+  "name": "Miss Bianca - Rescue Aid Society Agent",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "miss-bianca-rescue-aid-society-agent"
+},
+{
+  "name": "Mr. Snoops - Inept Businessman",
+  "ink_cost": 6,
+  "rarity": "Common",
+  "id": "mr-snoops-inept-businessman"
+},
+{
+  "name": "Nani - Protective Sister",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "nani-protective-sister"
+},
+{
+  "name": "Flotsam - Ursula's Spy",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "flotsam-ursulas-spy"
+},
+{
+  "name": "Orville - Ace Pilot",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "orville-ace-pilot"
+},
+{
+  "name": "Patch - Intimidating Pup",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "patch-intimidating-pup"
+},
+{
+  "name": "Perdita - Devoted Mother",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "perdita-devoted-mother"
+},
+{
+  "name": "Piglet - Pooh Pirate Captain",
+  "ink_cost": 2,
+  "rarity": "Super Rare",
+  "id": "piglet-pooh-pirate-captain"
+},
+{
+  "name": "Pluto - Determined Defender",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "pluto-determined-defender"
+},
+{
+  "name": "Pluto - Friendly Pooch",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "pluto-friendly-pooch"
+},
+{
+  "name": "Pongo - Determined Father",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "pongo-determined-father"
+},
+{
+  "name": "Queen of Hearts - Wonderland Empress",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "queen-of-hearts-wonderland-empress"
+},
+{
+  "name": "Rolly - Hungry Pup",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "rolly-hungry-pup"
+},
+{
+  "name": "Tinker Bell - Generous Fairy",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "tinker-bell-generous-fairy"
+},
+{
+  "name": "Jafar - Keeper of Secrets",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "jafar-keeper-of-secrets"
+},
+{
+  "name": "Wendy Darling - Talented Sailor",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "wendy-darling-talented-sailor"
+},
+{
+  "name": "99 Puppies",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "99-puppies"
+},
+{
+  "name": "Boss's Orders",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "bosss-orders"
+},
+{
+  "name": "Heal What Has Been Hurt",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "heal-what-has-been-hurt"
+},
+{
+  "name": "Quick Patch",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "quick-patch"
+},
+{
+  "name": "The Bare Necessities",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "the-bare-necessities"
+},
+{
+  "name": "Cleansing Rainwater",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "cleansing-rainwater"
+},
+{
+  "name": "Heart of Atlantis",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "heart-of-atlantis"
+},
+{
+  "name": "Wildcat's Wrench",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "wildcats-wrench"
+},
+{
+  "name": "Never Land - Mermaid Lagoon",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "never-land-mermaid-lagoon"
+},
+{
+  "name": "Jafar - Wicked Sorcerer",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "jafar-wicked-sorcerer"
+},
+{
+  "name": "Pride Lands - Pride Rock",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "pride-lands-pride-rock"
+},
+{
+  "name": "Tiana's Palace - Jazz Restaurant",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "tianas-palace-jazz-restaurant"
+},
+{
+  "name": "Alice - Tea Alchemist",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "alice-tea-alchemist"
+},
+{
+  "name": "Chernabog's Followers - Creatures of Evil",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "chernabogs-followers-creatures-of-evil"
+},
+{
+  "name": "Diablo - Faithful Pet",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "diablo-faithful-pet"
+},
+{
+  "name": "Genie - Supportive Friend",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "genie-supportive-friend"
+},
+{
+  "name": "Hydros - Ice Titan",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "hydros-ice-titan"
+},
+{
+  "name": "Iago - Pretty Polly",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "iago-pretty-polly"
+},
+{
+  "name": "Jafar - Lamp Thief",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "jafar-lamp-thief"
+},
+{
+  "name": "Jafar - Striking Illusionist",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "jafar-striking-illusionist"
+},
+{
+  "name": "Jetsam - Ursula's Spy",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "jetsam-ursulas-spy"
+},
+{
+  "name": "Lena Sabrewing - Rebellious Teenager",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "lena-sabrewing-rebellious-teenager"
+},
+{
+  "name": "Magic Broom - Dancing Duster",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "magic-broom-dancing-duster"
+},
+{
+  "name": "Magic Broom - Swift Cleaner",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "magic-broom-swift-cleaner"
+},
+{
+  "name": "Magic Broom - The Big Sweeper",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "magic-broom-the-big-sweeper"
+},
+{
+  "name": "Magic Carpet - Flying Rug",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "magic-carpet-flying-rug"
+},
+{
+  "name": "Magica De Spell - Ambitious Witch",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "magica-de-spell-ambitious-witch"
+},
+{
+  "name": "Magica De Spell - The Midas Touch",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "magica-de-spell-the-midas-touch"
+},
+{
+  "name": "Magica De Spell - Thieving Sorceress",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "magica-de-spell-thieving-sorceress"
+},
+{
+  "name": "Maleficent - Mistress of All Evil",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "maleficent-mistress-of-all-evil"
+},
+{
+  "name": "Mama Odie - Voice of Wisdom",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "mama-odie-voice-of-wisdom"
+},
+{
+  "name": "Magic Broom - Bucket Brigade",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "magic-broom-bucket-brigade"
+},
+{
+  "name": "Pua - Potbellied Buddy",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "pua-potbellied-buddy"
+},
+{
+  "name": "Rafiki - Mystical Fighter",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "rafiki-mystical-fighter"
+},
+{
+  "name": "Stratos - Tornado Titan",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "stratos-tornado-titan"
+},
+{
+  "name": "The Firebird - Force of Destruction",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "the-firebird-force-of-destruction"
+},
+{
+  "name": "The Queen - Hateful Rival",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "the-queen-hateful-rival"
+},
+{
+  "name": "Treasure Guardian - Protector of the Cave",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "treasure-guardian-protector-of-the-cave"
+},
+{
+  "name": "Ursula - Sea Witch",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "ursula-sea-witch"
+},
+{
+  "name": "Bestow a Gift",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "bestow-a-gift"
+},
+{
+  "name": "It Calls Me",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "it-calls-me"
+},
+{
+  "name": "Last-Ditch Effort",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "last-ditch-effort"
+},
+{
+  "name": "Maleficent - Biding Her Time",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "maleficent-biding-her-time"
+},
+{
+  "name": "The Boss is on a Roll",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "the-boss-is-on-a-roll"
+},
+{
+  "name": "The Lamp",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "the-lamp"
+},
+{
+  "name": "The Sorcerer's Hat",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "the-sorcerers-hat"
+},
+{
+  "name": "Forbidden Mountain - Maleficent's Castle",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "forbidden-mountain-maleficents-castle"
+},
+{
+  "name": "The Queen's Castle - Mirror Chamber",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "the-queens-castle-mirror-chamber"
+},
+{
+  "name": "The Sorcerer's Tower - Wondrous Workspace",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "the-sorcerers-tower-wondrous-workspace"
+},
+{
+  "name": "Cubby - Mighty Lost Boy",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "cubby-mighty-lost-boy"
+},
+{
+  "name": "Cursed Merfolk - Ursula's Handiwork",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "cursed-merfolk-ursulas-handiwork"
+},
+{
+  "name": "Don Karnage - Prince of Pirates",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "don-karnage-prince-of-pirates"
+},
+{
+  "name": "Flotsam - Riffraff",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "flotsam-riffraff"
+},
+{
+  "name": "Maleficent - Sorceress",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "maleficent-sorceress"
+},
+{
+  "name": "Friar Tuck - Priest of Nottingham",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "friar-tuck-priest-of-nottingham"
+},
+{
+  "name": "Helga Sinclair - Femme Fatale",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "helga-sinclair-femme-fatale"
+},
+{
+  "name": "Helga Sinclair - Vengeful Partner",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "helga-sinclair-vengeful-partner"
+},
+{
+  "name": "Jetsam - Riffraff",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "jetsam-riffraff"
+},
+{
+  "name": "Kit Cloudkicker - Tough Guy",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "kit-cloudkicker-tough-guy"
+},
+{
+  "name": "Lyle Tiberius Rourke - Cunning Mercenary",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "lyle-tiberius-rourke-cunning-mercenary"
+},
+{
+  "name": "Milo Thatch - Clever Cartographer",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "milo-thatch-clever-cartographer"
+},
+{
+  "name": "Milo Thatch - King of Atlantis",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "milo-thatch-king-of-atlantis"
+},
+{
+  "name": "Morph - Space Goo",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "morph-space-goo"
+},
+{
+  "name": "Peter Pan - Lost Boy Leader",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "peter-pan-lost-boy-leader"
+},
+{
+  "name": "Marshmallow - Persistent Guardian",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "marshmallow-persistent-guardian"
+},
+{
+  "name": "Prince John - Phony King",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "prince-john-phony-king"
+},
+{
+  "name": "Robin Hood - Daydreamer",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "robin-hood-daydreamer"
+},
+{
+  "name": "Shenzi - Hyena Pack Leader",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "shenzi-hyena-pack-leader"
+},
+{
+  "name": "Sir Hiss - Aggravating Asp",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "sir-hiss-aggravating-asp"
+},
+{
+  "name": "Skippy - Energetic Rabbit",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "skippy-energetic-rabbit"
+},
+{
+  "name": "Starkey - Devious Pirate",
+  "ink_cost": 7,
+  "rarity": "Uncommon",
+  "id": "starkey-devious-pirate"
+},
+{
+  "name": "Stitch - Covert Agent",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "stitch-covert-agent"
+},
+{
+  "name": "Ursula - Deceiver",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "ursula-deceiver"
+},
+{
+  "name": "Ursula - Deceiver of All",
+  "ink_cost": 3,
+  "rarity": "Legendary",
+  "id": "ursula-deceiver-of-all"
+},
+{
+  "name": "Wildcat - Mechanic",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "wildcat-mechanic"
+},
+{
+  "name": "Hades - Lord of the Underworld",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "hades-lord-of-the-underworld"
+},
+{
+  "name": "Mickey Mouse - Wayward Sorcerer",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "mickey-mouse-wayward-sorcerer"
+},
+{
+  "name": "Zazu - Steward of the Pride Lands",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "zazu-steward-of-the-pride-lands"
+},
+{
+  "name": "Has Set My Heaaaaaaart...",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "has-set-my-heaaaaaaart"
+},
+{
+  "name": "I Will Find My Way",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "i-will-find-my-way"
+},
+{
+  "name": "Strike a Good Match",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "strike-a-good-match"
+},
+{
+  "name": "Airfoil",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "airfoil"
+},
+{
+  "name": "Robin's Bow",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "robins-bow"
+},
+{
+  "name": "Starlight Vial",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "starlight-vial"
+},
+{
+  "name": "De Vil Manor - Cruella's Estate",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "de-vil-manor-cruellas-estate"
+},
+{
+  "name": "Fang - River City",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "fang-river-city"
+},
+{
+  "name": "Kuzco's Palace - Home of the Emperor",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "kuzcos-palace-home-of-the-emperor"
+},
+{
+  "name": "Olaf - Friendly Snowman",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "olaf-friendly-snowman"
+},
+{
+  "name": "Ariel - Adventurous Collector",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "ariel-adventurous-collector"
+},
+{
+  "name": "Billy Bones - Keeper of the Map",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "billy-bones-keeper-of-the-map"
+},
+{
+  "name": "Captain Hook - Master Swordsman",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "captain-hook-master-swordsman"
+},
+{
+  "name": "Della Duck - Unstoppable Mom",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "della-duck-unstoppable-mom"
+},
+{
+  "name": "HeiHei - Accidental Explorer",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "heihei-accidental-explorer"
+},
+{
+  "name": "Hydra - Deadly Serpent",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "hydra-deadly-serpent"
+},
+{
+  "name": "Jim Hawkins - Space Traveler",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "jim-hawkins-space-traveler"
+},
+{
+  "name": "Jim Hawkins - Thrill Seeker",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "jim-hawkins-thrill-seeker"
+},
+{
+  "name": "Kakamora - Menacing Sailor",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "kakamora-menacing-sailor"
+},
+{
+  "name": "Madame Medusa - The Boss",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "madame-medusa-the-boss"
+},
+{
+  "name": "Pascal - Rapunzel's Companion",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "pascal-rapunzels-companion"
+},
+{
+  "name": "Maui - Soaring Demigod",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "maui-soaring-demigod"
+},
+{
+  "name": "Maui - Whale",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "maui-whale"
+},
+{
+  "name": "Milo Thatch - Spirited Scholar",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "milo-thatch-spirited-scholar"
+},
+{
+  "name": "Moana - Born Leader",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "moana-born-leader"
+},
+{
+  "name": "Moana - Undeterred Voyager",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "moana-undeterred-voyager"
+},
+{
+  "name": "Nutsy - Vulture Henchman",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "nutsy-vulture-henchman"
+},
+{
+  "name": "Peter Pan - Never Land Hero",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "peter-pan-never-land-hero"
+},
+{
+  "name": "Peter Pan - Pirate's Bane",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "peter-pan-pirates-bane"
+},
+{
+  "name": "Prince Eric - Expert Helmsman",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "prince-eric-expert-helmsman"
+},
+{
+  "name": "Scroop - Backstabber",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "scroop-backstabber"
+},
+{
+  "name": "Rafiki - Mysterious Sage",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "rafiki-mysterious-sage"
+},
+{
+  "name": "Simba - Scrappy Cub",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "simba-scrappy-cub"
+},
+{
+  "name": "Slightly - Lost Boy",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "slightly-lost-boy"
+},
+{
+  "name": "Stitch - Little Rocket",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "stitch-little-rocket"
+},
+{
+  "name": "Trigger - Not-So-Sharp Shooter",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "trigger-not-so-sharp-shooter"
+},
+{
+  "name": "Webby Vanderquack - Enthusiastic Duck",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "webby-vanderquack-enthusiastic-duck"
+},
+{
+  "name": "Divebomb",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "divebomb"
+},
+{
+  "name": "I've Got a Dream",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "ive-got-a-dream"
+},
+{
+  "name": "On Your Feet! Now!",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "on-your-feet-now"
+},
+{
+  "name": "Voyage",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "voyage"
+},
+{
+  "name": "Maui's Fish Hook",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "mauis-fish-hook"
+},
+{
+  "name": "Sven - Official Ice Deliverer",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "sven-official-ice-deliverer"
+},
+{
+  "name": "Sumerian Talisman",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "sumerian-talisman"
+},
+{
+  "name": "Agrabah - Marketplace",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "agrabah-marketplace"
+},
+{
+  "name": "Jolly Roger - Hook's Ship",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "jolly-roger-hooks-ship"
+},
+{
+  "name": "RLS Legacy - Solar Galleon",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "rls-legacy-solar-galleon"
+},
+{
+  "name": "Audrey Ramirez - The Engineer",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "audrey-ramirez-the-engineer"
+},
+{
+  "name": "Captain Amelia - First in Command",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "captain-amelia-first-in-command"
+},
+{
+  "name": "Dewey - Showy Nephew",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "dewey-showy-nephew"
+},
+{
+  "name": "Flintheart Glomgold - Lone Cheater",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "flintheart-glomgold-lone-cheater"
+},
+{
+  "name": "Genie - Cramped in the Lamp",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "genie-cramped-in-the-lamp"
+},
+{
+  "name": "Gramma Tala - Keeper of Ancient Stories",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "gramma-tala-keeper-of-ancient-stories"
+},
+{
+  "name": "The Queen - Wicked and Vain",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "the-queen-wicked-and-vain"
+},
+{
+  "name": "Gramma Tala - Spirit of the Ocean",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "gramma-tala-spirit-of-the-ocean"
+},
+{
+  "name": "Gyro Gearloose - Gadget Whiz",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "gyro-gearloose-gadget-whiz"
+},
+{
+  "name": "Huey - Savvy Nephew",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "huey-savvy-nephew"
+},
+{
+  "name": "King Louie - Bandleader",
+  "ink_cost": 7,
+  "rarity": "Common",
+  "id": "king-louie-bandleader"
+},
+{
+  "name": "Kit Cloudkicker - Navigator",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "kit-cloudkicker-navigator"
+},
+{
+  "name": "Kit Cloudkicker - Spunky Bear Cub",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "kit-cloudkicker-spunky-bear-cub"
+},
+{
+  "name": "Louie - Chill Nephew",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "louie-chill-nephew"
+},
+{
+  "name": "Maid Marian - Delightful Dreamer",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "maid-marian-delightful-dreamer"
+},
+{
+  "name": "Mama Odie - Mystical Maven",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "mama-odie-mystical-maven"
+},
+{
+  "name": "Pluto - Mickey's Clever Friend",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "pluto-mickeys-clever-friend"
+},
+{
+  "name": "The Wardrobe - Belle's Confidant",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "the-wardrobe-belles-confidant"
+},
+{
+  "name": "Rufus - Orphanage Cat",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "rufus-orphanage-cat"
+},
+{
+  "name": "Scrooge McDuck - Richest Duck in the World",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "scrooge-mcduck-richest-duck-in-the-world"
+},
+{
+  "name": "Scrooge McDuck - Uncle Moneybags",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "scrooge-mcduck-uncle-moneybags"
+},
+{
+  "name": "The Queen - Mirror Seeker",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "the-queen-mirror-seeker"
+},
+{
+  "name": "Tinker Bell - Very Clever Fairy",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "tinker-bell-very-clever-fairy"
+},
+{
+  "name": "Wendy Darling - Authority on Peter Pan",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "wendy-darling-authority-on-peter-pan"
+},
+{
+  "name": "Distract",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "distract"
+},
+{
+  "name": "Friend Like Me",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "friend-like-me"
+},
+{
+  "name": "How Far I'll Go",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "how-far-ill-go"
+},
+{
+  "name": "Repair",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "repair"
+},
+{
+  "name": "Tinker Bell - Peter Pan's Ally",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "tinker-bell-peter-pans-ally"
+},
+{
+  "name": "Aurelian Gyrosensor",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "aurelian-gyrosensor"
+},
+{
+  "name": "Heart of Te Fiti",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "heart-of-te-fiti"
+},
+{
+  "name": "Lucky Dime",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "lucky-dime"
+},
+{
+  "name": "Scrooge's Top Hat",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "scrooges-top-hat"
+},
+{
+  "name": "Vault Door",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "vault-door"
+},
+{
+  "name": "Belle's House - Maurice's Workshop",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "belles-house-maurices-workshop"
+},
+{
+  "name": "McDuck Manor - Scrooge's Mansion",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "mcduck-manor-scrooges-mansion"
+},
+{
+  "name": "Motunui - Island Paradise",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "motunui-island-paradise"
+},
+{
+  "name": "Chief Tui - Proud of Motunui",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "chief-tui-proud-of-motunui"
+},
+{
+  "name": "Eeyore - Overstuffed Donkey",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "eeyore-overstuffed-donkey"
+},
+{
+  "name": "Ursula - Power Hungry",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "ursula-power-hungry"
+},
+{
+  "name": "Gustav the Giant - Terror of the Kingdom",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "gustav-the-giant-terror-of-the-kingdom"
+},
+{
+  "name": "Hades - Hotheaded Ruler",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "hades-hotheaded-ruler"
+},
+{
+  "name": "Helga Sinclair - Right-Hand Woman",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "helga-sinclair-right-hand-woman"
+},
+{
+  "name": "John Silver - Greedy Treasure Seeker",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "john-silver-greedy-treasure-seeker"
+},
+{
+  "name": "Kida - Royal Warrior",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "kida-royal-warrior"
+},
+{
+  "name": "Little John - Resourceful Outlaw",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "little-john-resourceful-outlaw"
+},
+{
+  "name": "Little John - Robin's Pal",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "little-john-robins-pal"
+},
+{
+  "name": "Lythos - Rock Titan",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "lythos-rock-titan"
+},
+{
+  "name": "Mickey Mouse - Stalwart Explorer",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mickey-mouse-stalwart-explorer"
+},
+{
+  "name": "Mickey Mouse - Trumpeter",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "mickey-mouse-trumpeter"
+},
+{
+  "name": "Yzma - Alchemist",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "yzma-alchemist"
+},
+{
+  "name": "Minnie Mouse - Funky Spelunker",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "minnie-mouse-funky-spelunker"
+},
+{
+  "name": "Mr. Smee - Bumbling Mate",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "mr-smee-bumbling-mate"
+},
+{
+  "name": "Mufasa - Champion of the Pride Lands",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "mufasa-champion-of-the-pride-lands"
+},
+{
+  "name": "Nala - Fierce Friend",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "nala-fierce-friend"
+},
+{
+  "name": "Pyros - Lava Titan",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "pyros-lava-titan"
+},
+{
+  "name": "Razoul - Palace Guard",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "razoul-palace-guard"
+},
+{
+  "name": "Robin Hood - Beloved Outlaw",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "robin-hood-beloved-outlaw"
+},
+{
+  "name": "Robin Hood - Champion of Sherwood",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "robin-hood-champion-of-sherwood"
+},
+{
+  "name": "Sheriff of Nottingham - Corrupt Official",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "sheriff-of-nottingham-corrupt-official"
+},
+{
+  "name": "Simba - Fighting Prince",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "simba-fighting-prince"
+},
+{
+  "name": "HeiHei - Boat Snack",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "heihei-boat-snack"
+},
+{
+  "name": "Zeus - God of Lightning",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "zeus-god-of-lightning"
+},
+{
+  "name": "Simba - Rightful King",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "simba-rightful-king"
+},
+{
+  "name": "Thaddeus E. Klang - Metallic Leader",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "thaddeus-e-klang-metallic-leader"
+},
+{
+  "name": "And Then Along Came Zeus",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "and-then-along-came-zeus"
+},
+{
+  "name": "Ba-Boom!",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "ba-boom"
+},
+{
+  "name": "Olympus Would Be That Way",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "olympus-would-be-that-way"
+},
+{
+  "name": "Rise of the Titans",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "rise-of-the-titans"
+},
+{
+  "name": "Captain Hook's Rapier",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "captain-hooks-rapier"
+},
+{
+  "name": "Gizmosuit",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "gizmosuit"
+},
+{
+  "name": "Map of Treasure Planet",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "map-of-treasure-planet"
+},
+{
+  "name": "Maui's Place of Exile - Hidden Island",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "mauis-place-of-exile-hidden-island"
+},
+{
+  "name": "Befuddle",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "befuddle"
+},
+{
+  "name": "Nottingham - Prince John's Castle",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "nottingham-prince-johns-castle"
+},
+{
+  "name": "The Bayou - Mysterious Swamp",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "the-bayou-mysterious-swamp"
+},
+{
+  "name": "Cruella De Vil - Miserable as Usual",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "cruella-de-vil-miserable-as-usual"
+},
+{
+  "name": "Agustin Madrigal - Clumsy Dad",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "agustin-madrigal-clumsy-dad"
+},
+{
+  "name": "Alma Madrigal - Family Matriarch",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "alma-madrigal-family-matriarch"
+},
+{
+  "name": "Ariel - Singing Mermaid",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "ariel-singing-mermaid"
+},
+{
+  "name": "Cinderella - Melody Weaver",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "cinderella-melody-weaver"
+},
+{
+  "name": "Cogsworth - Majordomo",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "cogsworth-majordomo"
+},
+{
+  "name": "Daisy Duck - Lovely Lady",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "daisy-duck-lovely-lady"
+},
+{
+  "name": "Daisy Duck - Musketeer Spy",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "daisy-duck-musketeer-spy"
+},
+{
+  "name": "Freeze",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "freeze"
+},
+{
+  "name": "Donald Duck - Musketeer Soldier",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "donald-duck-musketeer-soldier"
+},
+{
+  "name": "Félix Madrigal - Fun-Loving Family Man",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "felix-madrigal-fun-loving-family-man"
+},
+{
+  "name": "Gaston - Despicable Dealer",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "gaston-despicable-dealer"
+},
+{
+  "name": "Golden Harp - Enchanter of the Land",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "golden-harp-enchanter-of-the-land"
+},
+{
+  "name": "Goofy - Musketeer Swordsman",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "goofy-musketeer-swordsman"
+},
+{
+  "name": "Julieta Madrigal - Excellent Cook",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "julieta-madrigal-excellent-cook"
+},
+{
+  "name": "Max - Loyal Sheepdog",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "max-loyal-sheepdog"
+},
+{
+  "name": "Mickey Mouse - Leader of the Band",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "mickey-mouse-leader-of-the-band"
+},
+{
+  "name": "Mickey Mouse - Musketeer Captain",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "mickey-mouse-musketeer-captain"
+},
+{
+  "name": "Minnie Mouse - Musketeer Champion",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "minnie-mouse-musketeer-champion"
+},
+{
+  "name": "Friends on the Other Side",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "friends-on-the-other-side"
+},
+{
+  "name": "Mirabel Madrigal - Gift of the Family",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "mirabel-madrigal-gift-of-the-family"
+},
+{
+  "name": "Mirabel Madrigal - Prophecy Finder",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "mirabel-madrigal-prophecy-finder"
+},
+{
+  "name": "Pluto - Rescue Dog",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "pluto-rescue-dog"
+},
+{
+  "name": "Prince Eric - Seafaring Prince",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "prince-eric-seafaring-prince"
+},
+{
+  "name": "Prince Eric - Ursula's Groom",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "prince-eric-ursulas-groom"
+},
+{
+  "name": "Stitch - Alien Dancer",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "stitch-alien-dancer"
+},
+{
+  "name": "Ursula - Eric's Bride",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "ursula-erics-bride"
+},
+{
+  "name": "Ursula - Vanessa",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "ursula-vanessa"
+},
+{
+  "name": "Bruno's Return",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "brunos-return"
+},
+{
+  "name": "First Aid",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "first-aid"
+},
+{
+  "name": "Reflection",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "reflection"
+},
+{
+  "name": "Look at This Family",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "look-at-this-family"
+},
+{
+  "name": "Lost in the Woods",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "lost-in-the-woods"
+},
+{
+  "name": "Sign the Scroll",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "sign-the-scroll"
+},
+{
+  "name": "Miracle Candle",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "miracle-candle"
+},
+{
+  "name": "Record Player",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "record-player"
+},
+{
+  "name": "Atlantica - Concert Hall",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "atlantica-concert-hall"
+},
+{
+  "name": "The Underworld - River Styx",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "the-underworld-river-styx"
+},
+{
+  "name": "Antonio Madrigal - Animal Expert",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "antonio-madrigal-animal-expert"
+},
+{
+  "name": "Belle - Accomplished Mystic",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "belle-accomplished-mystic"
+},
+{
+  "name": "Belle - Untrained Mystic",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "belle-untrained-mystic"
+},
+{
+  "name": "Magic Mirror",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "magic-mirror"
+},
+{
+  "name": "Bruno Madrigal - Out of the Shadows",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "bruno-madrigal-out-of-the-shadows"
+},
+{
+  "name": "Bruno Madrigal - Undetected Uncle",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "bruno-madrigal-undetected-uncle"
+},
+{
+  "name": "Camilo Madrigal - Prankster",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "camilo-madrigal-prankster"
+},
+{
+  "name": "Dolores Madrigal - Easy Listener",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "dolores-madrigal-easy-listener"
+},
+{
+  "name": "Elsa - Storm Chaser",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "elsa-storm-chaser"
+},
+{
+  "name": "Flotsam - Ursula's \"Baby\"",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "flotsam-ursulas-baby"
+},
+{
+  "name": "Flotsam & Jetsam - Entangling Eels",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "flotsam-and-jetsam-entangling-eels"
+},
+{
+  "name": "Isabela Madrigal - Golden Child",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "isabela-madrigal-golden-child"
+},
+{
+  "name": "Jetsam - Ursula's \"Baby\"",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "jetsam-ursulas-baby"
+},
+{
+  "name": "Luisa Madrigal - Magically Strong One",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "luisa-madrigal-magically-strong-one"
+},
+{
+  "name": "Ursula's Cauldron",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "ursulas-cauldron"
+},
+{
+  "name": "Magic Broom - Illuminary Keeper",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "magic-broom-illuminary-keeper"
+},
+{
+  "name": "Magic Broom - Lively Sweeper",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "magic-broom-lively-sweeper"
+},
+{
+  "name": "Magical Maid - Feather Duster",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "magical-maid-feather-duster"
+},
+{
+  "name": "Marshmallow - Terrifying Snowman",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "marshmallow-terrifying-snowman"
+},
+{
+  "name": "Mrs. Potts - Enchanted Teapot",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "mrs-potts-enchanted-teapot"
+},
+{
+  "name": "Pepa Madrigal - Weather Maker",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "pepa-madrigal-weather-maker"
+},
+{
+  "name": "Peter Pan - Shadow Finder",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "peter-pan-shadow-finder"
+},
+{
+  "name": "Pico - Helpful Toucan",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "pico-helpful-toucan"
+},
+{
+  "name": "Tick-Tock - Ever-Present Pursuer",
+  "ink_cost": 6,
+  "rarity": "Common",
+  "id": "tick-tock-ever-present-pursuer"
+},
+{
+  "name": "Ursula - Mad Sea Witch",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "ursula-mad-sea-witch"
+},
+{
+  "name": "White Rabbit's Pocket Watch",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "white-rabbits-pocket-watch"
+},
+{
+  "name": "Ursula - Sea Witch Queen",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "ursula-sea-witch-queen"
+},
+{
+  "name": "Yen Sid - Powerful Sorcerer",
+  "ink_cost": 2,
+  "rarity": "Legendary",
+  "id": "yen-sid-powerful-sorcerer"
+},
+{
+  "name": "Poor Unfortunate Souls",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "poor-unfortunate-souls"
+},
+{
+  "name": "Second Star to the Right",
+  "ink_cost": 10,
+  "rarity": "Rare",
+  "id": "second-star-to-the-right"
+},
+{
+  "name": "Swing into Action",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "swing-into-action"
+},
+{
+  "name": "Ursula's Plan",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "ursulas-plan"
+},
+{
+  "name": "Mystical Rose",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "mystical-rose"
+},
+{
+  "name": "Rose Lantern",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "rose-lantern"
+},
+{
+  "name": "Triton's Trident",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "tritons-trident"
+},
+{
+  "name": "Casa Madrigal - Casita",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "casa-madrigal-casita"
+},
+{
+  "name": "Aladdin - Prince Ali",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "aladdin-prince-ali"
+},
+{
+  "name": "Ursula's Lair - Eye of the Storm",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "ursulas-lair-eye-of-the-storm"
+},
+{
+  "name": "Cri-Kee - Lucky Cricket",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "cri-kee-lucky-cricket"
+},
+{
+  "name": "Diablo - Devoted Herald",
+  "ink_cost": 3,
+  "rarity": "Legendary",
+  "id": "diablo-devoted-herald"
+},
+{
+  "name": "Diablo - Maleficent's Spy",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "diablo-maleficents-spy"
+},
+{
+  "name": "Gunther - Interior Designer",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "gunther-interior-designer"
+},
+{
+  "name": "Gus - Champion of Cheese",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gus-champion-of-cheese"
+},
+{
+  "name": "Hades - Double Dealer",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "hades-double-dealer"
+},
+{
+  "name": "HeiHei - Bumbling Rooster",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "heihei-bumbling-rooster"
+},
+{
+  "name": "Hera - Queen of the Gods",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "hera-queen-of-the-gods"
+},
+{
+  "name": "Jaq - Connoisseur of Climbing",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "jaq-connoisseur-of-climbing"
+},
+{
+  "name": "Beast - Wolfsbane",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "beast-wolfsbane"
+},
+{
+  "name": "Jasmine - Desert Warrior",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "jasmine-desert-warrior"
+},
+{
+  "name": "Megara - Captivating Cynic",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "megara-captivating-cynic"
+},
+{
+  "name": "Megara - Liberated One",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "megara-liberated-one"
+},
+{
+  "name": "Pain - Immortal Sidekick",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "pain-immortal-sidekick"
+},
+{
+  "name": "Panic - Immortal Sidekick",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "panic-immortal-sidekick"
+},
+{
+  "name": "Pegasus - Cloud Racer",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "pegasus-cloud-racer"
+},
+{
+  "name": "Pegasus - Gift for Hercules",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "pegasus-gift-for-hercules"
+},
+{
+  "name": "Pete - Born to Cheat",
+  "ink_cost": 2,
+  "rarity": "Super Rare",
+  "id": "pete-born-to-cheat"
+},
+{
+  "name": "Pete - Rotten Guy",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "pete-rotten-guy"
+},
+{
+  "name": "Prince Phillip - Vanquisher of Foes",
+  "ink_cost": 9,
+  "rarity": "Super Rare",
+  "id": "prince-phillip-vanquisher-of-foes"
+},
+{
+  "name": "LeFou - Bumbler",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "lefou-bumbler"
+},
+{
+  "name": "Cheshire Cat - Not All There",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "cheshire-cat-not-all-there"
+},
+{
+  "name": "Prince Phillip - Warden of the Woods",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "prince-phillip-warden-of-the-woods"
+},
+{
+  "name": "The Fates - Only One Eye",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "the-fates-only-one-eye"
+},
+{
+  "name": "The Muses - Proclaimers of Heroes",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "the-muses-proclaimers-of-heroes"
+},
+{
+  "name": "Tor - Florist",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "tor-florist"
+},
+{
+  "name": "Zeus - Mr. Lightning Bolts",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "zeus-mr-lightning-bolts"
+},
+{
+  "name": "Dodge!",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "dodge"
+},
+{
+  "name": "Make the Potion",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "make-the-potion"
+},
+{
+  "name": "Under the Sea",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "under-the-sea"
+},
+{
+  "name": "Ursula's Trickery",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "ursulas-trickery"
+},
+{
+  "name": "We Don't Talk About Bruno",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "we-dont-talk-about-bruno"
+},
+{
+  "name": "Hidden Inkcaster",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "hidden-inkcaster"
+},
+{
+  "name": "Signed Contract",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "signed-contract"
+},
+{
+  "name": "Vision Slab",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "vision-slab"
+},
+{
+  "name": "Hidden Cove - Tranquil Haven",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "hidden-cove-tranquil-haven"
+},
+{
+  "name": "Ursula's Garden - Full of the Unfortunate",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "ursulas-garden-full-of-the-unfortunate"
+},
+{
+  "name": "Beast - Wounded",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "beast-wounded"
+},
+{
+  "name": "Benja - Bold Uniter",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "benja-bold-uniter"
+},
+{
+  "name": "Fa Zhou - Mulan's Father",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "fa-zhou-mulans-father"
+},
+{
+  "name": "Flynn Rider - Frenemy",
+  "ink_cost": 2,
+  "rarity": "Super Rare",
+  "id": "flynn-rider-frenemy"
+},
+{
+  "name": "Goofy - Super Goof",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "goofy-super-goof"
+},
+{
+  "name": "Duke of Weselton - Opportunistic Official",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "duke-of-weselton-opportunistic-official"
+},
+{
+  "name": "Hercules - Clumsy Kid",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "hercules-clumsy-kid"
+},
+{
+  "name": "Hercules - Daring Demigod",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "hercules-daring-demigod"
+},
+{
+  "name": "Khan - Beloved Steed",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "khan-beloved-steed"
+},
+{
+  "name": "Li Shang - General's Son",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "li-shang-generals-son"
+},
+{
+  "name": "Li Shang - Valorous General",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "li-shang-valorous-general"
+},
+{
+  "name": "Lumiere - Fiery Friend",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "lumiere-fiery-friend"
+},
+{
+  "name": "Mulan - Elite Archer",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "mulan-elite-archer"
+},
+{
+  "name": "Mulan - Enemy of Entanglement",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "mulan-enemy-of-entanglement"
+},
+{
+  "name": "Mulan - Injured Soldier",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "mulan-injured-soldier"
+},
+{
+  "name": "Namaari - Heir of Fang",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "namaari-heir-of-fang"
+},
+{
+  "name": "Flynn Rider - Charming Rogue",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "flynn-rider-charming-rogue"
+},
+{
+  "name": "Nessus - River Guardian",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "nessus-river-guardian"
+},
+{
+  "name": "Noi - Acrobatic Baby",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "noi-acrobatic-baby"
+},
+{
+  "name": "Pegasus - Flying Steed",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "pegasus-flying-steed"
+},
+{
+  "name": "Raya - Fierce Protector",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "raya-fierce-protector"
+},
+{
+  "name": "Raya - Guardian of the Dragon Gem",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "raya-guardian-of-the-dragon-gem"
+},
+{
+  "name": "Sisu - Daring Visitor",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "sisu-daring-visitor"
+},
+{
+  "name": "Sisu - Emboldened Warrior",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "sisu-emboldened-warrior"
+},
+{
+  "name": "Sisu - Empowered Sibling",
+  "ink_cost": 8,
+  "rarity": "Legendary",
+  "id": "sisu-empowered-sibling"
+},
+{
+  "name": "Tong - Survivor",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "tong-survivor"
+},
+{
+  "name": "Tuk Tuk - Lively Partner",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "tuk-tuk-lively-partner"
+},
+{
+  "name": "Genie - On the Job",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "genie-on-the-job"
+},
+{
+  "name": "A Pirate's Life",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "a-pirates-life"
+},
+{
+  "name": "Be King Undisputed",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "be-king-undisputed"
+},
+{
+  "name": "Brawl",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "brawl"
+},
+{
+  "name": "Imperial Proclamation",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "imperial-proclamation"
+},
+{
+  "name": "Medallion Weights",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "medallion-weights"
+},
+{
+  "name": "The Plank",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "the-plank"
+},
+{
+  "name": "Vitalisphere",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "vitalisphere"
+},
+{
+  "name": "Snuggly Duckling - Disreputable Pub",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "snuggly-duckling-disreputable-pub"
+},
+{
+  "name": "Training Grounds - Impossible Pillar",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "training-grounds-impossible-pillar"
+},
+{
+  "name": "Anna - Braving the Storm",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "anna-braving-the-storm"
+},
+{
+  "name": "Genie - Powers Unleashed",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "genie-powers-unleashed"
+},
+{
+  "name": "Anna - True-Hearted",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "anna-true-hearted"
+},
+{
+  "name": "Ariel - Treasure Collector",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "ariel-treasure-collector"
+},
+{
+  "name": "Aurora - Lore Guardian",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "aurora-lore-guardian"
+},
+{
+  "name": "Aurora - Tranquil Princess",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "aurora-tranquil-princess"
+},
+{
+  "name": "Dang Hu - Talon Chief",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "dang-hu-talon-chief"
+},
+{
+  "name": "Fa Li - Mulan's Mother",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "fa-li-mulans-mother"
+},
+{
+  "name": "Flounder - Collector's Companion",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "flounder-collectors-companion"
+},
+{
+  "name": "Hades - Meticulous Plotter",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "hades-meticulous-plotter"
+},
+{
+  "name": "Hans - Noble Scoundrel",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "hans-noble-scoundrel"
+},
+{
+  "name": "Iduna - Caring Mother",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "iduna-caring-mother"
+},
+{
+  "name": "Genie - The Ever Impressive",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "genie-the-ever-impressive"
+},
+{
+  "name": "John Silver - Terror of the Realm",
+  "ink_cost": 8,
+  "rarity": "Rare",
+  "id": "john-silver-terror-of-the-realm"
+},
+{
+  "name": "Olaf - Carrot Enthusiast",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "olaf-carrot-enthusiast"
+},
+{
+  "name": "Olaf - Trusting Companion",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "olaf-trusting-companion"
+},
+{
+  "name": "Pascal - Inquisitive Pet",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "pascal-inquisitive-pet"
+},
+{
+  "name": "Prince Phillip - Gallant Defender",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "prince-phillip-gallant-defender"
+},
+{
+  "name": "Rapunzel - Appreciative Artist",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "rapunzel-appreciative-artist"
+},
+{
+  "name": "Scuttle - Expert on Humans",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "scuttle-expert-on-humans"
+},
+{
+  "name": "Sisu - Wise Friend",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "sisu-wise-friend"
+},
+{
+  "name": "The Queen - Diviner",
+  "ink_cost": 3,
+  "rarity": "Legendary",
+  "id": "the-queen-diviner"
+},
+{
+  "name": "Transformed Chef - Castle Stove",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "transformed-chef-castle-stove"
+},
+{
+  "name": "Hans - Scheming Prince",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "hans-scheming-prince"
+},
+{
+  "name": "Triton - Champion of Atlantica",
+  "ink_cost": 9,
+  "rarity": "Legendary",
+  "id": "triton-champion-of-atlantica"
+},
+{
+  "name": "Triton - Discerning King",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "triton-discerning-king"
+},
+{
+  "name": "Triton - Young Prince",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "triton-young-prince"
+},
+{
+  "name": "Tuk Tuk - Curious Partner",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "tuk-tuk-curious-partner"
+},
+{
+  "name": "Dig a Little Deeper",
+  "ink_cost": 8,
+  "rarity": "Uncommon",
+  "id": "dig-a-little-deeper"
+},
+{
+  "name": "Glean",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "glean"
+},
+{
+  "name": "Seldom All They Seem",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "seldom-all-they-seem"
+},
+{
+  "name": "Treasures Untold",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "treasures-untold"
+},
+{
+  "name": "Field of Ice",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "field-of-ice"
+},
+{
+  "name": "Great Stone Dragon",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "great-stone-dragon"
+},
+{
+  "name": "Horace - No-Good Scoundrel",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "horace-no-good-scoundrel"
+},
+{
+  "name": "Ice Block",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "ice-block"
+},
+{
+  "name": "Ariel's Grotto - A Secret Place",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "ariels-grotto-a-secret-place"
+},
+{
+  "name": "Winter Camp - Medical Tent",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "winter-camp-medical-tent"
+},
+{
+  "name": "Aladdin - Brave Rescuer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "aladdin-brave-rescuer"
+},
+{
+  "name": "Aladdin - Resolute Swordsman",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "aladdin-resolute-swordsman"
+},
+{
+  "name": "Arges - The Cyclops",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "arges-the-cyclops"
+},
+{
+  "name": "Ariel - Determined Mermaid",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "ariel-determined-mermaid"
+},
+{
+  "name": "Ariel - Sonic Warrior",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "ariel-sonic-warrior"
+},
+{
+  "name": "Beast - Thick-Skinned",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "beast-thick-skinned"
+},
+{
+  "name": "Chi-Fu - Imperial Advisor",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "chi-fu-imperial-advisor"
+},
+{
+  "name": "Iago - Loud-Mouthed Parrot",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "iago-loud-mouthed-parrot"
+},
+{
+  "name": "Chien-Po - Imperial Soldier",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "chien-po-imperial-soldier"
+},
+{
+  "name": "Donald Duck - Buccaneer",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "donald-duck-buccaneer"
+},
+{
+  "name": "Hercules - Beloved Hero",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "hercules-beloved-hero"
+},
+{
+  "name": "LeFou - Opportunistic Flunky",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "lefou-opportunistic-flunky"
+},
+{
+  "name": "Li Shang - Imperial Captain",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "li-shang-imperial-captain"
+},
+{
+  "name": "Ling - Imperial Soldier",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "ling-imperial-soldier"
+},
+{
+  "name": "Luisa Madrigal - Rock of the Family",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "luisa-madrigal-rock-of-the-family"
+},
+{
+  "name": "Magic Broom - Aerial Cleaner",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "magic-broom-aerial-cleaner"
+},
+{
+  "name": "Magic Broom - Brigade Commander",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "magic-broom-brigade-commander"
+},
+{
+  "name": "Mickey Mouse - Playful Sorcerer",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "mickey-mouse-playful-sorcerer"
+},
+{
+  "name": "Lilo - Making a Wish",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "lilo-making-a-wish"
+},
+{
+  "name": "Jasper - Common Crook",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "jasper-common-crook"
+},
+{
+  "name": "Mickey Mouse - Standard Bearer",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "mickey-mouse-standard-bearer"
+},
+{
+  "name": "Mulan - Armored Fighter",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "mulan-armored-fighter"
+},
+{
+  "name": "Philoctetes - No-Nonsense Instructor",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "philoctetes-no-nonsense-instructor"
+},
+{
+  "name": "Piglet - Sturdy Swordsman",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "piglet-sturdy-swordsman"
+},
+{
+  "name": "Rajah - Royal Protector",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "rajah-royal-protector"
+},
+{
+  "name": "Raya - Unstoppable Force",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "raya-unstoppable-force"
+},
+{
+  "name": "Yao - Imperial Soldier",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "yao-imperial-soldier"
+},
+{
+  "name": "Avalanche",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "avalanche"
+},
+{
+  "name": "I Find 'Em, I Flatten 'Em",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "i-find-em-i-flatten-em"
+},
+{
+  "name": "One Last Hope",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "one-last-hope"
+},
+{
+  "name": "John Silver - Alien Pirate",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "john-silver-alien-pirate"
+},
+{
+  "name": "The Mob Song",
+  "ink_cost": 10,
+  "rarity": "Uncommon",
+  "id": "the-mob-song"
+},
+{
+  "name": "Triton's Decree",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "tritons-decree"
+},
+{
+  "name": "Fortisphere",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "fortisphere"
+},
+{
+  "name": "Imperial Bow",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "imperial-bow"
+},
+{
+  "name": "RLS Legacy's Cannon",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "rls-legacys-cannon"
+},
+{
+  "name": "The Wall - Border Fortress",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "the-wall-border-fortress"
+},
+{
+  "name": "Thebes - The Big Olive",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "thebes-the-big-olive"
+},
+{
+  "name": "Anna - Ensnared Sister",
+  "ink_cost": 6,
+  "rarity": "Promo",
+  "id": "anna-ensnared-sister"
+},
+{
+  "name": "Bruno Madrigal - Unspeakable Seer",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "bruno-madrigal-unspeakable-seer"
+},
+{
+  "name": "Captain Hook - Devious Duelist",
+  "ink_cost": 5,
+  "rarity": "Promo",
+  "id": "captain-hook-devious-duelist"
+},
+{
+  "name": "Jumba Jookiba - Renegade Scientist",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "jumba-jookiba-renegade-scientist"
+},
+{
+  "name": "Flotsam - Wicked Defender",
+  "ink_cost": 4,
+  "rarity": "Promo",
+  "id": "flotsam-wicked-defender"
+},
+{
+  "name": "Gaston - Egotistical Bully",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "gaston-egotistical-bully"
+},
+{
+  "name": "HeiHei - Peckish Pal",
+  "ink_cost": 3,
+  "rarity": "Promo",
+  "id": "heihei-peckish-pal"
+},
+{
+  "name": "Hercules - Manipulated Hero",
+  "ink_cost": 4,
+  "rarity": "Promo",
+  "id": "hercules-manipulated-hero"
+},
+{
+  "name": "Jafar - Double-Crossing Vizier",
+  "ink_cost": 7,
+  "rarity": "Promo",
+  "id": "jafar-double-crossing-vizier"
+},
+{
+  "name": "Jetsam - Wicked Whisperer",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "jetsam-wicked-whisperer"
+},
+{
+  "name": "Mad Hatter - Sinister Host",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "mad-hatter-sinister-host"
+},
+{
+  "name": "Magica De Spell - Shadowy Sorceress",
+  "ink_cost": 3,
+  "rarity": "Promo",
+  "id": "magica-de-spell-shadowy-sorceress"
+},
+{
+  "name": "Minnie Mouse - Wild-Eyed Diver",
+  "ink_cost": 7,
+  "rarity": "Promo",
+  "id": "minnie-mouse-wild-eyed-diver"
+},
+{
+  "name": "Prince Eric - Grim Groom",
+  "ink_cost": 1,
+  "rarity": "Promo",
+  "id": "prince-eric-grim-groom"
+},
+{
+  "name": "Kuzco - Temperamental Emperor",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "kuzco-temperamental-emperor"
+},
+{
+  "name": "Shark - Toothy Terror",
+  "ink_cost": 5,
+  "rarity": "Promo",
+  "id": "shark-toothy-terror"
+},
+{
+  "name": "Tamatoa - Grabby Crab",
+  "ink_cost": 4,
+  "rarity": "Promo",
+  "id": "tamatoa-grabby-crab"
+},
+{
+  "name": "Triton's Daughters - Discordant Chorus",
+  "ink_cost": 0,
+  "rarity": "Promo",
+  "id": "tritons-daughters-discordant-chorus"
+},
+{
+  "name": "Capsize",
+  "ink_cost": 3,
+  "rarity": "Promo",
+  "id": "capsize"
+},
+{
+  "name": "Choppy Waters",
+  "ink_cost": 3,
+  "rarity": "Promo",
+  "id": "choppy-waters"
+},
+{
+  "name": "Crushing Wave",
+  "ink_cost": 4,
+  "rarity": "Promo",
+  "id": "crushing-wave"
+},
+{
+  "name": "Entangling Magic",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "entangling-magic"
+},
+{
+  "name": "Fortunate Hit",
+  "ink_cost": 0,
+  "rarity": "Promo",
+  "id": "fortunate-hit"
+},
+{
+  "name": "Lash Out",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "lash-out"
+},
+{
+  "name": "Lightning Storm",
+  "ink_cost": 6,
+  "rarity": "Promo",
+  "id": "lightning-storm"
+},
+{
+  "name": "Lady Tremaine - Wicked Stepmother",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "lady-tremaine-wicked-stepmother"
+},
+{
+  "name": "Riptide",
+  "ink_cost": 6,
+  "rarity": "Promo",
+  "id": "riptide"
+},
+{
+  "name": "Tentacle Swipe",
+  "ink_cost": 2,
+  "rarity": "Promo",
+  "id": "tentacle-swipe"
+},
+{
+  "name": "Tsunami",
+  "ink_cost": 7,
+  "rarity": "Promo",
+  "id": "tsunami"
+},
+{
+  "name": "Typhoon",
+  "ink_cost": 5,
+  "rarity": "Promo",
+  "id": "typhoon"
+},
+{
+  "name": "Whirlpool",
+  "ink_cost": 4,
+  "rarity": "Promo",
+  "id": "whirlpool"
+},
+{
+  "name": "The Hexwell Crown",
+  "ink_cost": 3,
+  "rarity": "Promo",
+  "id": "the-hexwell-crown"
+},
+{
+  "name": "Ursula's Contract",
+  "ink_cost": 0,
+  "rarity": "Promo",
+  "id": "ursulas-contract"
+},
+{
+  "name": "Ursula's Stolen Trident",
+  "ink_cost": 0,
+  "rarity": "Promo",
+  "id": "ursulas-stolen-trident"
+},
+{
+  "name": "Koda - Talkative Cub",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "koda-talkative-cub"
+},
+{
+  "name": "Nala - Mischievous Cub",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "nala-mischievous-cub"
+},
+{
+  "name": "Mad Hatter - Gracious Host",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "mad-hatter-gracious-host"
+},
+{
+  "name": "Prince Naveen - Ukulele Player",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "prince-naveen-ukulele-player"
+},
+{
+  "name": "Rutt - Northern Moose",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "rutt-northern-moose"
+},
+{
+  "name": "Kenai - Big Brother",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "kenai-big-brother"
+},
+{
+  "name": "Vanellope von Schweetz - Sugar Rush Champ",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "vanellope-von-schweetz-sugar-rush-champ"
+},
+{
+  "name": "Tuke - Northern Moose",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "tuke-northern-moose"
+},
+{
+  "name": "Lilo - Junior Cake Decorator",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "lilo-junior-cake-decorator"
+},
+{
+  "name": "Vanellope von Schweetz - Candy Mechanic",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "vanellope-von-schweetz-candy-mechanic"
+},
+{
+  "name": "Fix-It Felix, Jr. - Trusty Builder",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "fix-it-felix-jr-trusty-builder"
+},
+{
+  "name": "Gazelle - Pop Star",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "gazelle-pop-star"
+},
+{
+  "name": "Fix-It Felix, Jr. - Niceland Steward",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "fix-it-felix-jr-niceland-steward"
+},
+{
+  "name": "Megara - Pulling the Strings",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "megara-pulling-the-strings"
+},
+{
+  "name": "Kristoff - Reindeer Keeper",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "kristoff-reindeer-keeper"
+},
+{
+  "name": "Mirabel Madrigal - Family Gatherer",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "mirabel-madrigal-family-gatherer"
+},
+{
+  "name": "Minnie Mouse - Drum Major",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "minnie-mouse-drum-major"
+},
+{
+  "name": "Daisy Duck - Donald's Date",
+  "ink_cost": 1,
+  "rarity": "Super Rare",
+  "id": "daisy-duck-donalds-date"
+},
+{
+  "name": "Fix-It Felix, Jr. - Delighted Sightseer",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "fix-it-felix-jr-delighted-sightseer"
+},
+{
+  "name": "Moana - Determined Explorer",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "moana-determined-explorer"
+},
+{
+  "name": "Vanellope von Schweetz - Sugar Rush Princess",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "vanellope-von-schweetz-sugar-rush-princess"
+},
+{
+  "name": "Alan-a-Dale - Rockin' Rooster",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "alan-a-dale-rockin-rooster"
+},
+{
+  "name": "Wreck-It Ralph - Admiral Underpants",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "wreck-it-ralph-admiral-underpants"
+},
+{
+  "name": "Maid Marian - Lady of the Lists",
+  "ink_cost": 6,
+  "rarity": "Uncommon",
+  "id": "maid-marian-lady-of-the-lists"
+},
+{
+  "name": "Mickey Mouse - Artful Rogue",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "mickey-mouse-artful-rogue"
+},
+{
+  "name": "Sven - Reindeer Steed",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "sven-reindeer-steed"
+},
+{
+  "name": "Minnie Mouse - Compassionate Friend",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "minnie-mouse-compassionate-friend"
+},
+{
+  "name": "Try Everything",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "try-everything"
+},
+{
+  "name": "Healing Touch",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "healing-touch"
+},
+{
+  "name": "Revive",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "revive"
+},
+{
+  "name": "Blast from Your Past",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "blast-from-your-past"
+},
+{
+  "name": "Invited to the Ball",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "invited-to-the-ball"
+},
+{
+  "name": "Healing Decanter",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "healing-decanter"
+},
+{
+  "name": "Queen's Sensor Core",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "queens-sensor-core"
+},
+{
+  "name": "Amber Chromicon",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "amber-chromicon"
+},
+{
+  "name": "Mickey Mouse - Steamboat Pilot",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "mickey-mouse-steamboat-pilot"
+},
+{
+  "name": "Rapunzel's Tower - Secluded Prison",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "rapunzels-tower-secluded-prison"
+},
+{
+  "name": "Pride Lands - Jungle Oasis",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "pride-lands-jungle-oasis"
+},
+{
+  "name": "Maleficent - Formidable Queen",
+  "ink_cost": 8,
+  "rarity": "Super Rare",
+  "id": "maleficent-formidable-queen"
+},
+{
+  "name": "The Nokk - Mythical Spirit",
+  "ink_cost": 6,
+  "rarity": "Common",
+  "id": "the-nokk-mythical-spirit"
+},
+{
+  "name": "Cogsworth - Illuminary Watchman",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "cogsworth-illuminary-watchman"
+},
+{
+  "name": "Merlin - Turtle",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "merlin-turtle"
+},
+{
+  "name": "Archimedes - Exasperated Owl",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "archimedes-exasperated-owl"
+},
+{
+  "name": "Bruni - Fire Salamander",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "bruni-fire-salamander"
+},
+{
+  "name": "Earth Giant - Living Mountain",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "earth-giant-living-mountain"
+},
+{
+  "name": "Gale - Wind Spirit",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "gale-wind-spirit"
+},
+{
+  "name": "Mother Gothel - Selfish Manipulator",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "mother-gothel-selfish-manipulator"
+},
+{
+  "name": "White Rabbit - Royal Herald",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "white-rabbit-royal-herald"
+},
+{
+  "name": "Madam Mim - Elephant",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "madam-mim-elephant"
+},
+{
+  "name": "Luisa Madrigal - Entertaining Muscle",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "luisa-madrigal-entertaining-muscle"
+},
+{
+  "name": "Anna - Mystical Majesty",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "anna-mystical-majesty"
+},
+{
+  "name": "Archimedes - Electrified Owl",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "archimedes-electrified-owl"
+},
+{
+  "name": "Elsa - The Fifth Spirit",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "elsa-the-fifth-spirit"
+},
+{
+  "name": "Genie - Main Attraction",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "genie-main-attraction"
+},
+{
+  "name": "Olaf - Happy Passenger",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "olaf-happy-passenger"
+},
+{
+  "name": "Maleficent - Vexed Partygoer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "maleficent-vexed-partygoer"
+},
+{
+  "name": "Monstro - Whale of a Whale",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "monstro-whale-of-a-whale"
+},
+{
+  "name": "Maximus - Palace Horse",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "maximus-palace-horse"
+},
+{
+  "name": "Peter Pan - Never Landing",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "peter-pan-never-landing"
+},
+{
+  "name": "Magica De Spell - Cruel Sorceress",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "magica-de-spell-cruel-sorceress"
+},
+{
+  "name": "Maleficent - Vengeful Sorceress",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "maleficent-vengeful-sorceress"
+},
+{
+  "name": "Rafiki - Shaman Duelist",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "rafiki-shaman-duelist"
+},
+{
+  "name": "Anna - Eager Acolyte",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "anna-eager-acolyte"
+},
+{
+  "name": "King of Hearts - Monarch of Wonderland",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "king-of-hearts-monarch-of-wonderland"
+},
+{
+  "name": "Camilo Madrigal - Family Copycat",
+  "ink_cost": 6,
+  "rarity": "Legendary",
+  "id": "camilo-madrigal-family-copycat"
+},
+{
+  "name": "Hypnotic Strength",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "hypnotic-strength"
+},
+{
+  "name": "Finders Keepers",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "finders-keepers"
+},
+{
+  "name": "We Know the Way",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "we-know-the-way"
+},
+{
+  "name": "Gathering Knowledge and Wisdom",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "gathering-knowledge-and-wisdom"
+},
+{
+  "name": "Tamatoa - Drab Little Crab",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "tamatoa-drab-little-crab"
+},
+{
+  "name": "Magical Aid",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "magical-aid"
+},
+{
+  "name": "Retrosphere",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "retrosphere"
+},
+{
+  "name": "Half Hexwell Crown",
+  "ink_cost": 6,
+  "rarity": "Rare",
+  "id": "half-hexwell-crown"
+},
+{
+  "name": "Amethyst Chromicon",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "amethyst-chromicon"
+},
+{
+  "name": "Elsa's Ice Palace - Place of Solitude",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "elsas-ice-palace-place-of-solitude"
+},
+{
+  "name": "The Library - A Gift for Belle",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "the-library-a-gift-for-belle"
+},
+{
+  "name": "Robin Hood - Timely Contestant",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "robin-hood-timely-contestant"
+},
+{
+  "name": "Shenzi - Scar's Accomplice",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "shenzi-scars-accomplice"
+},
+{
+  "name": "Little John - Camp Cook",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "little-john-camp-cook"
+},
+{
+  "name": "Zazu - Advisor to Mufasa",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "zazu-advisor-to-mufasa"
+},
+{
+  "name": "Tinker Bell - Most Helpful",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "tinker-bell-most-helpful"
+},
+{
+  "name": "Ulf - Mime",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "ulf-mime"
+},
+{
+  "name": "Ed - Laughing Hyena",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "ed-laughing-hyena"
+},
+{
+  "name": "Flora - Good Fairy",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "flora-good-fairy"
+},
+{
+  "name": "Merryweather - Good Fairy",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "merryweather-good-fairy"
+},
+{
+  "name": "Robin Hood - Archery Contestant",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "robin-hood-archery-contestant"
+},
+{
+  "name": "Fauna - Good Fairy",
+  "ink_cost": 5,
+  "rarity": "Common",
+  "id": "fauna-good-fairy"
+},
+{
+  "name": "Iago - Fake Flamingo",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "iago-fake-flamingo"
+},
+{
+  "name": "Banzai - Gluttonous Predator",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "banzai-gluttonous-predator"
+},
+{
+  "name": "Ed - Hysterical Partygoer",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "ed-hysterical-partygoer"
+},
+{
+  "name": "Scroop - Odious Mutineer",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "scroop-odious-mutineer"
+},
+{
+  "name": "Do It Again!",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "do-it-again"
+},
+{
+  "name": "Prince Phillip - Swordsman of the Realm",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "prince-phillip-swordsman-of-the-realm"
+},
+{
+  "name": "Clarabelle - Light on Her Hooves",
+  "ink_cost": 7,
+  "rarity": "Legendary",
+  "id": "clarabelle-light-on-her-hooves"
+},
+{
+  "name": "Anna - Diplomatic Queen",
+  "ink_cost": 3,
+  "rarity": "Legendary",
+  "id": "anna-diplomatic-queen"
+},
+{
+  "name": "Clarabelle - Clumsy Guest",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "clarabelle-clumsy-guest"
+},
+{
+  "name": "Banzai - Taunting Hyena",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "banzai-taunting-hyena"
+},
+{
+  "name": "Robin Hood - Sneaky Sleuth",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "robin-hood-sneaky-sleuth"
+},
+{
+  "name": "Mother Gothel - Conceited Manipulator",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "mother-gothel-conceited-manipulator"
+},
+{
+  "name": "Clarabelle - Contented Wallflower",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "clarabelle-contented-wallflower"
+},
+{
+  "name": "Shenzi - Head Hyena",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "shenzi-head-hyena"
+},
+{
+  "name": "Mother Gothel - Unwavering Schemer",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "mother-gothel-unwavering-schemer"
+},
+{
+  "name": "Mother Knows Best",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "mother-knows-best"
+},
+{
+  "name": "Scar - Vengeful Lion",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "scar-vengeful-lion"
+},
+{
+  "name": "Hypnotic Deduction",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "hypnotic-deduction"
+},
+{
+  "name": "Night Howler Rage",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "night-howler-rage"
+},
+{
+  "name": "You're Welcome",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "youre-welcome"
+},
+{
+  "name": "Remember Who You Are",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "remember-who-you-are"
+},
+{
+  "name": "Prince John's Mirror",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "prince-johns-mirror"
+},
+{
+  "name": "Obscurosphere",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "obscurosphere"
+},
+{
+  "name": "Emerald Chromicon",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "emerald-chromicon"
+},
+{
+  "name": "Sherwood Forest - Outlaw Hideaway",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "sherwood-forest-outlaw-hideaway"
+},
+{
+  "name": "Tropical Rainforest - Jaguar Lair",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "tropical-rainforest-jaguar-lair"
+},
+{
+  "name": "Stampede",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "stampede"
+},
+{
+  "name": "Taffyta Muttonfudge - Ruthless Rival",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "taffyta-muttonfudge-ruthless-rival"
+},
+{
+  "name": "Wreck-It Ralph - Demolition Dude",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "wreck-it-ralph-demolition-dude"
+},
+{
+  "name": "Maximus - Team Champion",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "maximus-team-champion"
+},
+{
+  "name": "Turbo - Royal Hack",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "turbo-royal-hack"
+},
+{
+  "name": "Donald Duck - Pie Slinger",
+  "ink_cost": 5,
+  "rarity": "Legendary",
+  "id": "donald-duck-pie-slinger"
+},
+{
+  "name": "Rancis Fluggerbutter - Chocolate Charger",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "rancis-fluggerbutter-chocolate-charger"
+},
+{
+  "name": "Scar - Betrayer",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "scar-betrayer"
+},
+{
+  "name": "Snowanna Rainbeau - Cool Competitor",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "snowanna-rainbeau-cool-competitor"
+},
+{
+  "name": "Daisy Duck - Spotless Food-Fighter",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "daisy-duck-spotless-food-fighter"
+},
+{
+  "name": "Mickey Mouse - Enthusiastic Dancer",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "mickey-mouse-enthusiastic-dancer"
+},
+{
+  "name": "Steal from the Rich",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "steal-from-the-rich"
+},
+{
+  "name": "Ratigan - Raging Rat",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "ratigan-raging-rat"
+},
+{
+  "name": "Taffyta Muttonfudge - Crowd Favorite",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "taffyta-muttonfudge-crowd-favorite"
+},
+{
+  "name": "Denahi - Avenging Brother",
+  "ink_cost": 5,
+  "rarity": "Rare",
+  "id": "denahi-avenging-brother"
+},
+{
+  "name": "Pete - Steamboat Rival",
+  "ink_cost": 7,
+  "rarity": "Super Rare",
+  "id": "pete-steamboat-rival"
+},
+{
+  "name": "Taffyta Muttonfudge - Sour Speedster",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "taffyta-muttonfudge-sour-speedster"
+},
+{
+  "name": "Robin Hood - Sharpshooter",
+  "ink_cost": 4,
+  "rarity": "Legendary",
+  "id": "robin-hood-sharpshooter"
+},
+{
+  "name": "Gaston - Pure Paragon",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "gaston-pure-paragon"
+},
+{
+  "name": "Pete - Pastry Chomper",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "pete-pastry-chomper"
+},
+{
+  "name": "Arthur - Novice Sparrow",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "arthur-novice-sparrow"
+},
+{
+  "name": "Donald Duck - Daisy's Date",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "donald-duck-daisys-date"
+},
+{
+  "name": "Sudden Chill",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "sudden-chill"
+},
+{
+  "name": "Ratigan - Party Crasher",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "ratigan-party-crasher"
+},
+{
+  "name": "Vanellope von Schweetz - Random Roster Racer",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "vanellope-von-schweetz-random-roster-racer"
+},
+{
+  "name": "Simba - Adventurous Successor",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "simba-adventurous-successor"
+},
+{
+  "name": "Minnie Mouse - Dazzling Dancer",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "minnie-mouse-dazzling-dancer"
+},
+{
+  "name": "Break Free",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "break-free"
+},
+{
+  "name": "Evil Comes Prepared",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "evil-comes-prepared"
+},
+{
+  "name": "Don't Let the Frostbite Bite",
+  "ink_cost": 7,
+  "rarity": "Rare",
+  "id": "dont-let-the-frostbite-bite"
+},
+{
+  "name": "Glimmer vs Glimmer",
+  "ink_cost": 4,
+  "rarity": "Uncommon",
+  "id": "glimmer-vs-glimmer"
+},
+{
+  "name": "Who's With Me?",
+  "ink_cost": 3,
+  "rarity": "Super Rare",
+  "id": "whos-with-me"
+},
+{
+  "name": "Potion of Might",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "potion-of-might"
+},
+{
+  "name": "The Beast is Mine!",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "the-beast-is-mine"
+},
+{
+  "name": "The Sword Released",
+  "ink_cost": 3,
+  "rarity": "Rare",
+  "id": "the-sword-released"
+},
+{
+  "name": "Ruby Chromicon",
+  "ink_cost": 1,
+  "rarity": "Uncommon",
+  "id": "ruby-chromicon"
+},
+{
+  "name": "Sugar Rush Speedway - Starting Line",
+  "ink_cost": 1,
+  "rarity": "Rare",
+  "id": "sugar-rush-speedway-starting-line"
+},
+{
+  "name": "Ratigan's Party - Seedy Back Room",
+  "ink_cost": 2,
+  "rarity": "Uncommon",
+  "id": "ratigans-party-seedy-back-room"
+},
+{
+  "name": "King Candy - Sovereign of Sugar",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "king-candy-sovereign-of-sugar"
+},
+{
+  "name": "Chaca - Impressive Daughter",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "chaca-impressive-daughter"
+},
+{
+  "name": "The Queen - Cruelest of All",
+  "ink_cost": 2,
+  "rarity": "Common",
+  "id": "the-queen-cruelest-of-all"
+},
+{
+  "name": "Scrooge McDuck - Afficionado of Antiquities",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "scrooge-mcduck-afficionado-of-antiquities"
+},
+{
+  "name": "Prince John - Opportunistic Briber",
+  "ink_cost": 3,
+  "rarity": "Common",
+  "id": "prince-john-opportunistic-briber"
+},
+{
+  "name": "Merlin - Back from Bermuda",
+  "ink_cost": 4,
+  "rarity": "Common",
+  "id": "merlin-back-from-bermuda"
+},
+{
+  "name": "Vicious Betrayal",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "vicious-betrayal"
+},
+{
+  "name": "Pacha - Emperor's Guide",
+  "ink_cost": 3,
+  "rarity": "Uncommon",
+  "id": "pacha-emperors-guide"
+},
+{
+  "name": "The Queen - Fairest of All",
+  "ink_cost": 5,
+  "rarity": "Super Rare",
+  "id": "the-queen-fairest-of-all"
+},
+{
+  "name": "Sheriff of Nottingham - Bushel Britches",
+  "ink_cost": 9,
+  "rarity": "Rare",
+  "id": "sheriff-of-nottingham-bushel-britches"
+},
+{
+  "name": "Chicha - Dedicated Mother",
+  "ink_cost": 2,
+  "rarity": "Rare",
+  "id": "chicha-dedicated-mother"
+},
+{
+  "name": "Prince John - Gold Lover",
+  "ink_cost": 4,
+  "rarity": "Super Rare",
+  "id": "prince-john-gold-lover"
+},
+{
+  "name": "The Queen - Crown of the Council",
+  "ink_cost": 4,
+  "rarity": "Rare",
+  "id": "the-queen-crown-of-the-council"
+},
+{
+  "name": "Kuzco - Selfish Emperor",
+  "ink_cost": 6,
+  "rarity": "Super Rare",
+  "id": "kuzco-selfish-emperor"
+},
+{
+  "name": "Mufasa - Ruler of Pride Rock",
+  "ink_cost": 8,
+  "rarity": "Legendary",
+  "id": "mufasa-ruler-of-pride-rock"
+},
+{
+  "name": "Ludwig von Drake - Self-Proclaimed Genius",
+  "ink_cost": 5,
+  "rarity": "Uncommon",
+  "id": "ludwig-von-drake-self-proclaimed-genius"
+},
+{
+  "name": "Minnie Mouse - Quick-Thinking Inventor",
+  "ink_cost": 1,
+  "rarity": "Common",
+  "id": "minnie-mouse-quick-thinking-inventor"
+}]

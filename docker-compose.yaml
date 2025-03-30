@@ -1,0 +1,52 @@
+version: '3.9'
+
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - LOG_LEVEL=info
+      - DATABASE_HOST=mongodb
+      - DATABASE_PORT=27017
+      - DATABASE_USER=admin
+      - DATABASE_PASSWORD=database_adminpass854
+    depends_on:
+      - mongodb
+
+  mongodb:
+    image: mongo:8.0.6
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=database_adminpass854
+      - MONGO_INITDB_DATABASE=cards-database
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb-data:/data/db
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongo mongo:27017/test --quiet
+      retries: 3
+      timeout: 10s
+  
+  mongo-express:
+    image: mongo-express
+    restart: on-failure
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: admin
+      ME_CONFIG_MONGODB_ADMINPASSWORD: database_adminpass854
+      ME_CONFIG_MONGODB_URL: mongodb://admin:database_adminpass854@mongodb:27017/
+      ME_CONFIG_BASICAUTH: false
+    depends_on:
+      - mongodb
+
+volumes:
+  mongodb-data:
+
+networks:
+  default:
+    external: false
+    name: technical-test-sbe-network
