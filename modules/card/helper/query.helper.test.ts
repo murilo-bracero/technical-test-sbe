@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildCardDbQuery } from "./query.helper.js";
+import { buildQuery } from "./query.helper.js";
 import { CardQuery } from "../models/card.js";
 import { Filter, Document } from "mongodb";
 
@@ -25,7 +25,7 @@ describe("buildCardDbQuery", () => {
       "gameAttributes.attribute": "value",
     };
 
-    expect(buildCardDbQuery(query)).toStrictEqual(expectedQuery);
+    expect(buildQuery(query)).toStrictEqual(expectedQuery);
   });
 
   it("should build one query with provided fields - numeric value variant", () => {
@@ -55,7 +55,7 @@ describe("buildCardDbQuery", () => {
       },
     };
 
-    expect(buildCardDbQuery(query)).toStrictEqual(expectedQuery);
+    expect(buildQuery(query)).toStrictEqual(expectedQuery);
   });
 
   it("should build one query with provided fields - numeric value without all attributes variant", () => {
@@ -83,7 +83,7 @@ describe("buildCardDbQuery", () => {
       },
     };
 
-    expect(buildCardDbQuery(query)).toStrictEqual(expectedQuery);
+    expect(buildQuery(query)).toStrictEqual(expectedQuery);
   });
 
   it("should encapsulate search value inside text/search clause", () => {
@@ -97,6 +97,6 @@ describe("buildCardDbQuery", () => {
       $text: { $search: "search" },
     };
 
-    expect(buildCardDbQuery(query)).toStrictEqual(expectedQuery);
+    expect(buildQuery(query)).toStrictEqual(expectedQuery);
   });
 });
