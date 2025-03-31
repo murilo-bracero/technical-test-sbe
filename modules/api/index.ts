@@ -8,18 +8,16 @@ import apicache from "apicache";
 
 export class Api {
   private app: Express;
-  private cardsRoute: Router;
 
   constructor(cardsService: CardsService) {
     this.app = express();
 
     const cardsController = new CardsController(cardsService);
-    this.cardsRoute = buildCardsRoute(cardsController);
 
-    this.config();
+    this.config(buildCardsRoute(cardsController));
   }
 
-  config() {
+  private config(...routers: Router[]) {
     const cache = apicache.options({
       statusCodes: {
         include: [200],
@@ -33,7 +31,9 @@ export class Api {
 
     this.app.use(cache("15 minutes"));
 
-    this.app.use(this.cardsRoute);
+    routers.forEach((router) => {
+      this.app.use(router);
+    });
 
     this.app.get("/", (req, res) => {
       res.json({ status: "UP" });
@@ -41,7 +41,6 @@ export class Api {
   }
 
   start(port: number) {
-    this.app.use(this.cardsRoute);
     this.app.listen(port, () => {
       log.info({ port }, "Server started");
     });
