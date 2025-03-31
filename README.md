@@ -57,11 +57,13 @@ docker build -t card-loader .
 
 docker run --name card-loader -d -p 3000:3000 \
     -e DATABASE_HOST=host.docker.internal \
-    -e DATABASE_PORT=27017" \
+    -e DATABASE_PORT=27017 \
     -e DATABASE_USER=admin \
     -e DATABASE_PASSWORD=database_adminpass854 \
     card-loader
 ```
+
+If you are on Linux, you can replace `host.docker.internal` with `172.17.0.1`
 
 ### Using NodeJS locally
 
