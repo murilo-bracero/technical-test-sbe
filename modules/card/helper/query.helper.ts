@@ -1,7 +1,7 @@
 import { Document, Filter } from "mongodb";
 import { CardQuery } from "../models/card.js";
 
-export function buildCardDbQuery(query: CardQuery): Filter<Document> {
+export function buildQuery(query: CardQuery): Filter<Document> {
   const q: Filter<Document> = {};
 
   if (query.id) {
@@ -17,24 +17,26 @@ export function buildCardDbQuery(query: CardQuery): Filter<Document> {
   }
 
   if (query.rarity) {
-    q["rarity"] = handleArrayQuery(q, "rarity", query.rarity);
+    q["rarity"] = handleArrayQuery(query.rarity);
   }
 
   if (query.game) {
     q["game"] = query.game;
   }
 
-  if (query.gameAttributes) {
-    for (const [key, value] of Object.entries(query.gameAttributes)) {
-      const queryKey = `gameAttributes.${key}`;
+  if (!query.gameAttributes) {
+    return q;
+  }
 
-      if (Array.isArray(value)) {
-        handleArrayQuery(q, queryKey, value);
-      } else if (typeof value === "object") {
-        handleNumericQuery(q, queryKey, value);
-      } else {
-        q[queryKey] = value;
-      }
+  for (const [key, value] of Object.entries(query.gameAttributes)) {
+    const queryKey = `gameAttributes.${key}`;
+
+    if (value instanceof Array) {
+      q[queryKey] = handleArrayQuery(value);
+    } else if (typeof value === "object") {
+      q[queryKey] = handleComposeQuery(value);
+    } else {
+      q[queryKey] = value;
     }
   }
 
@@ -42,27 +44,24 @@ export function buildCardDbQuery(query: CardQuery): Filter<Document> {
 }
 
 function handleArrayQuery(
-  q: { [key: string]: any },
-  key: string,
-  value: any[]
-) {
+  value: string[]
+): undefined | string | { $in: string[] } {
   if (value.length === 0) {
     return;
   }
 
   if (value.length === 1) {
-    return (q[key] = value[0]);
+    return value[0];
   }
 
-  q[key] = { $in: value };
+  return { $in: value };
 }
 
-function handleNumericQuery(
-  q: { [key: string]: any },
-  key: string,
-  value: any
-) {
-  const subq: { [key: string]: any } = {};
+function handleComposeQuery(value: {
+  gt?: number;
+  lt?: number;
+}): Filter<Document> {
+  const subq: Filter<Document> = {};
 
   if (value.gt) {
     subq["$gte"] = value.gt;
@@ -72,5 +71,5 @@ function handleNumericQuery(
     subq["$lte"] = value.lt;
   }
 
-  q[key] = subq;
+  return subq;
 }

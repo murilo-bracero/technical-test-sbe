@@ -7,3 +7,5 @@ export const CardEntryCore = z
     rarity: z.string().nonempty(),
   })
   .passthrough();
+
+export type CardEntryCore = z.infer<typeof CardEntryCore>;

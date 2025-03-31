@@ -29,11 +29,11 @@ export class CardLoaderJob {
 
     const readers = files
       .filter((f) => f.endsWith(".json"))
-      .filter((f) => f.replace("-cards.json", "").trim() !== "")
+      .filter((f) => this.getCardName(f) !== "")
       .map((f) => {
         return this.createReadableGameJSONStream(
           new URL(path.join(assetsFolder, f), import.meta.url),
-          f.replace("-cards.json", "").trim(),
+          this.getCardName(f),
           traceId
         );
       });
@@ -51,6 +51,10 @@ export class CardLoaderJob {
       batchTransform,
       dbWriteStream
     ).then(() => log.info({ traceId }, "Card Loader job finished"));
+  }
+
+  getCardName(fileName: string): string {
+    return fileName.replace("-cards.json", "").trim();
   }
 
   createReadableGameJSONStream(

@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { FindCardsQueryParameters } from "../dto/query.js";
 import { log } from "../../logger.js";
-import { Card, CardEntity } from "../../card/models/card.js";
+import { Card } from "../../card/models/card.js";
 import { CardsService } from "../../card/services/cards.service.js";
 
 export class CardsController {

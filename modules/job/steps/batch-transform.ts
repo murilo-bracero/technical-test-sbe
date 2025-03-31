@@ -11,7 +11,7 @@ export class BatchTransform extends Transform {
     this.batchSize = batchSize;
   }
 
-  _transform(chunk: any, encode: string, cb: Function) {
+  _transform(chunk: CardEntryCore, encode: string, cb: Function) {
     const validation = CardEntryCore.safeParse(chunk);
 
     if (!validation.success) {

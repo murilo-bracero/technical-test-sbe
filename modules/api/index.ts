@@ -1,4 +1,10 @@
-import express, { Express, Router } from "express";
+import express, {
+  Express,
+  Router,
+  Request,
+  Response,
+  NextFunction,
+} from "express";
 import { CardsController } from "./controllers/cards.controller.js";
 import { buildCardsRoute } from "./routes/cards.route.js";
 import { log } from "../logger.js";
@@ -38,6 +44,25 @@ export class Api {
     this.app.get("/", (req, res) => {
       res.json({ status: "UP" });
     });
+
+    this.app.use(
+      (
+        err: Error & { status?: number },
+        req: Request,
+        res: Response,
+        next: NextFunction
+      ) => {
+        log.error(err, req.url);
+
+        if (res.headersSent) {
+          return next(err);
+        }
+
+        res.status(err.status || 500).send();
+      }
+    );
+
+    this.app;
   }
 
   start(port: number) {

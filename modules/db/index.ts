@@ -22,9 +22,18 @@ export async function createIndexes(db: Db) {
     db
       .collection("cards")
       .createIndex({ name: "text" }, { name: "cards_name_text_search_idx" }),
+
+    db.collection("cards").createIndex({ name: 1 }, { name: "cards_name_idx" }),
+
     db
       .collection("cards")
       .createIndex({ id: 1 }, { unique: true, name: "cards_id_unique_idx" }),
+    db
+      .collection("cards")
+      .createIndex({ rarity: 1 }, { name: "cards_rarity_idx" }),
+
+    db.collection("cards").createIndex({ game: 1 }, { name: "cards_game_idx" }),
+
     db
       .collection("cards")
       .createIndex(
