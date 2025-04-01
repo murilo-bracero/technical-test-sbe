@@ -65,7 +65,7 @@ docker run --name card-loader -d -p 3000:3000 \
     card-loader
 ```
 
-If you are on Linux, you can replace `host.docker.internal` with `172.17.0.1`
+If you are on Linux, you can replace `host.docker.internal` with `172.17.0.1` or `172.17.0.2` depending on which docker network you are using.
 
 ### Using NodeJS locally
 
