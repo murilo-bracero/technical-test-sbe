@@ -1,0 +1,202 @@
+{
+  "openapi": "3.0.6",
+  "info": {
+    "title": "Cards API",
+    "contact": {
+      "email": "murilobracero@gmail.com"
+    },
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000"
+    }
+  ],
+  "tags": [
+    {
+      "name": "cards"
+    }
+  ],
+  "paths": {
+    "/api/v1/cards": {
+      "get": {
+        "tags": [
+          "cards"
+        ],
+        "summary": "Query cards.",
+        "description": "Game-agnostic endpoint to retrieve card information based on query paramaters.",
+        "operationId": "findCardsByQuery",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "_page",
+            "schema": {
+              "type": "integer",
+              "example": 1
+            },
+            "description": "Page number for pagination, defaults to 1"
+          },
+          {
+            "in": "query",
+            "name": "_size",
+            "schema": {
+              "type": "integer",
+              "example": 10
+            },
+            "description": "Page size for pagination, defaults to 10, max to 50"
+          },
+          {
+            "in": "query",
+            "name": "_search",
+            "schema": {
+              "type": "string",
+              "example": "Artifact"
+            },
+            "description": "A term to search for in the `name` field"
+          },
+          {
+            "in": "query",
+            "name": "game",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "mtg",
+                "lorcana"
+              ],
+              "example": "mtg"
+            }
+          },
+          {
+            "in": "query",
+            "name": "rarity",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "collectionFormat": "csv",
+              "example": [
+                "common"
+              ]
+            },
+            "description": "The rarity to filter by, comma separated"
+          },
+          {
+            "in": "query",
+            "name": "gameAttributes[color]",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "W",
+                  "U",
+                  "B",
+                  "R",
+                  "G"
+                ]
+              },
+              "collectionFormat": "csv",
+              "example": [
+                "B"
+              ]
+            },
+            "description": "Query by card color"
+          },
+          {
+            "in": "query",
+            "name": "gameAttributes[ink_cost]",
+            "schema": {
+              "type": "number",
+              "example": 3
+            },
+            "description": "Query by exact match of ink_cost"
+          },
+          {
+            "in": "query",
+            "name": "gameAttributes[ink_cost][gt]",
+            "schema": {
+              "type": "number",
+              "example": 2
+            },
+            "description": "Query ink_cost by values granther than X."
+          },
+          {
+            "in": "query",
+            "name": "gameAttributes[ink_cost][lt]",
+            "schema": {
+              "type": "number",
+              "example": 5
+            },
+            "description": "Query ink_cost by values lesser than X."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Card"
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Card": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "aladdin-fearless-navigator"
+          },
+          "game": {
+            "type": "string",
+            "example": "lorcana"
+          },
+          "name": {
+            "type": "string",
+            "example": "Aladdin - Cornered Swordsman"
+          },
+          "rarity": {
+            "type": "string",
+            "example": "Common"
+          },
+          "gameAttributes": {
+            "type": "object",
+            "description": "Game-specific attributes",
+            "properties": {
+              "ink_cost": {
+                "type": "number",
+                "example": 3,
+                "description": "Only available in Lorcana Cards"
+              },
+              "color": {
+                "type": "string",
+                "example": "B",
+                "description": "Only available in Mtg Cards"
+              }
+            },
+            "example": {
+              "ink_cost": 3
+            }
+          }
+        }
+      }
+    }
+  }
+}

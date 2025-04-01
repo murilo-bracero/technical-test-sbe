@@ -11,6 +11,8 @@ import { log } from "../logger.js";
 import { pinoHttp } from "pino-http";
 import { CardsService } from "../card/services/cards.service.js";
 import apicache from "apicache";
+import swaggerUi from 'swagger-ui-express';
+import openApiDoc from '../../docs/openapi.json' with {type: 'json'};
 
 export class Api {
   private app: Express;
@@ -40,6 +42,8 @@ export class Api {
     routers.forEach((router) => {
       this.app.use(router);
     });
+
+    this.app.use('/docs', swaggerUi.serve, swaggerUi.setup(openApiDoc));
 
     this.app.get("/", (req, res) => {
       res.json({ status: "UP" });

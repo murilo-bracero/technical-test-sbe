@@ -146,6 +146,10 @@ The API currently supports the following endpoints:
 
 The endpoint has a cache layer with a 15-minute TTL, but if you need an uncached response, set the header `Cache-Control` to `no-cache`.
 
+### OpenAPI UI
+
+The API have a simple OpenAPI UI that can be accessed at `/docs`.
+
 ## Disclaimers
 
 Some functions were added to simplify the functional evaluation of the code by the recruiter, and should not be used by any real service.
