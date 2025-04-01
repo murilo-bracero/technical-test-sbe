@@ -12,7 +12,7 @@ Or to run the application locally:
 - NodeJS 22
 - NPM
 
-### Environment Variables
+### Environment variables
 
 The following environment variables are required:
 
@@ -81,9 +81,9 @@ npm run build
 npm run start
 ```
 
-In all ways, the app will run the load job on startup and list to port 3000, unless specified otherwise.
+In all ways, the app will run the load job on startup and listen to port 3000, unless specified otherwise.
 
-## Folder Structure
+## Folder structure
 
 The service follows a module-based structure based on domains. I like to say that it's a simpler interpretation of DDD.
 
@@ -91,11 +91,11 @@ The root of the project contains the service entrypoint, `main.ts`, docker relat
 
 Inside `modules` folder you'll find all the domains that compose the service, technical or not. For example, `card`, `api`, `db`.
 
-The root of the modules folder should contain common types, interfaces, models, etc. that are used by all domains, for example env.ts and logger.ts
+The root of the modules folder should contain common types, interfaces, models, etc., that are used by all domains, such as env.ts and logger.ts.
 
 Unit tests have the `.test.ts` suffix and are located along with their subject counterparts.
 
-## Extending the System
+## Extending the system
 
 ### Add new games
 
@@ -117,11 +117,11 @@ The `game` property will be populated based on the dataset file name. So for exa
 
 The GET endpoint currently supports querying all required attributes (`id`, `name`, `rarity`), system generated fields (`game`) and game-specific attributes, inside of the `gameAttributes` field.
 
-The only limitation is with nested attributes in `gameAttributes`, as they are not supported yet, but their implementation will be code-only and shouldn't be too hard.
+The only limitation is with nested attributes in `gameAttributes`, as they are not currently supported; however, implementing them would require only code modifications and should be relatively straightforward.
 
 ### Indexing new attributes
 
-This part deppends hardly on observability, from both the service and the database side.
+This part depends heavily on observability, from both the service and the database side.
 
 At the moment, all required attributes have at least one kind of index, but the only fields from `gameAttributes` that have an index are `ink_cost` and `color` due to the fact that only lorcana and magic cards are being added.
 
@@ -129,7 +129,7 @@ New games can be added without any code change and the API will handle most of t
 
 But again, this will depend on the requirements of the new game, how ofthen it is queried and the kind of attributes it has.
 
-## API Capabilities
+## API capabilities
 
 The API currently supports the following endpoints:
 
@@ -142,13 +142,13 @@ The API currently supports the following endpoints:
   - rarity: The rarity to filter by, comma separated
   - gameAttributes: A key-value object with the game-specific attributes to filter by, e.g. `gameAttributes[color]=B`
     * gameAttributes supports comma-separated values, e.g. `gameAttributes[color]=B,R`, single values, e.g. `gameAttributes[color]=B` and ranges if the matching field is numeric, e.g. `gameAttributes[ink_cost][gt]=1&gameAttributes[ink_cost][lt]=5`.
-    * Query ranges are inclusive, e.g. `gameAttributes[ink_cost][gt]=1&gameAttributes[ink_cost][lt]=5` will return cards with ink cost between 1 and 5.
+    * Query ranges are inclusive; for example, `gameAttributes[ink_cost][gt]=1&gameAttributes[ink_cost][lt]=5` will return cards with ink costs ranging from 1 to 5.
 
 The endpoint has a cache layer with a 15-minute TTL, but if you need an uncached response, set the header `Cache-Control` to `no-cache`.
 
 ## Disclaimers
 
-Some funcions were added to simplify the functional evaluation of the code by the recruiter, and should be not used by any real service.
+Some functions were added to simplify the functional evaluation of the code by the recruiter, and should not be used by any real service.
 
 They are:
 
@@ -156,10 +156,10 @@ They are:
 
 `integration-test/api.test.ts#beforeAll` 
 
-## Enhancement Proposals
+## Enhancement proposals
 
 - Add a `GET /api/v1/cards/:id` endpoint to get a single card by id
 
-- Althrough the search capabilities of MongoDB are good enought for this sepecific exercise, it does not support typos, misspellings, or partial words, so a Search Database could be added and implemented in the future, for example Meilisearch or Elasticsearch.
+- Although the search capabilities of MongoDB are good enough for this sepecific exercise, it does not support typos, misspellings, or partial words, so a search database could be added and implemented in the future, for example Meilisearch or Elasticsearch.
 
-- For this exercise, all datasets are store in the repository as JSON files, but the API could be extended to acess the files from a remote blob storage, e.g. AWS S3 or Google Cloud Storage, as well as support for different file formats, e.g. CSV.
+- For this exercise, all datasets are store in the repository as JSON files, but the API could be extended to access the files from a remote blob storage, e.g. AWS S3 or Google Cloud Storage, as well as support for different file formats, e.g. CSV.
