@@ -25,6 +25,8 @@ Optional environment variables:
 
 - PORT: (Optional) The port to listen on. Defaults to 3000.
 - LOG_LEVEL: (Optional) The log level to use. Defaults to "info".
+- CARD_LOADER_CHUNK_SIZE: (Optional) The chunk size to use when loading cards into the database. Defaults to 50.
+- API_MAX_CARDS_PER_REQUEST: (Optional) The maximum number of cards to return in a single page from the API. Defaults to 50.
 
 ## Running
 
