@@ -70,38 +70,19 @@
             "in": "query",
             "name": "rarity",
             "schema": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              },
-              "collectionFormat": "csv",
-              "example": [
-                "common"
-              ]
+              "type": "string",
+              "example": "common"
             },
-            "description": "The rarity to filter by, comma separated"
+            "description": "The rarity to filter by. Can be a single value or a comma-separated list"
           },
           {
             "in": "query",
             "name": "gameAttributes[color]",
             "schema": {
-              "type": "array",
-              "items": {
-                "type": "string",
-                "enum": [
-                  "W",
-                  "U",
-                  "B",
-                  "R",
-                  "G"
-                ]
-              },
-              "collectionFormat": "csv",
-              "example": [
-                "B"
-              ]
+              "type": "string",
+              "example": "B"
             },
-            "description": "Query by card color"
+            "description": "Query by card color. Can be a single value or a comma-separated list"
           },
           {
             "in": "query",
